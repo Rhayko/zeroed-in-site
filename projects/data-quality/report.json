@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "rows_in": 554,
+  "counts": {
+    "ACCEPTED": 498,
+    "QUARANTINED": 36,
+    "DUPLICATE_NORMALIZED": 8,
+    "DUPLICATE_EXACT": 12
+  },
+  "accepted_unique_keys": 498,
+  "quarantined_unique_keys": 30,
+  "normalization_events": 68,
+  "rows_with_normalization": 48,
+  "rule_violations": {
+    "SUBSET_BOUNDS": 3,
+    "DUPLICATE_CONFLICT": 12,
+    "NONPOSITIVE_HOURS": 3,
+    "NONINTEGER_COUNT": 3,
+    "MISSING_VALUE": 3,
+    "INVALID_DATE": 3,
+    "NEGATIVE_VALUE": 3,
+    "ORDER_RECONCILIATION": 3,
+    "INVALID_NUMBER": 3,
+    "UNKNOWN_CATEGORY": 3
+  },
+  "accepted_orders_due": 118000,
+  "accepted_on_time_orders": 109051,
+  "accepted_on_time_rate": 0.9241610169491525,
+  "disposition_reconciles": true,
+  "input_sha256": "fc9694dd96ecaed724ac2f0ee9d536cc9ea34cd3ab1663816f92da986ea0b2e9"
+}
