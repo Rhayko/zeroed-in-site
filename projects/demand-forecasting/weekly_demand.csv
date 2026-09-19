@@ -1,0 +1,1057 @@
+week_start,week_index,product,demand_units
+2023-01-02,0,Trail packs,29
+2023-01-09,1,Trail packs,40
+2023-01-16,2,Trail packs,32
+2023-01-23,3,Trail packs,40
+2023-01-30,4,Trail packs,45
+2023-02-06,5,Trail packs,37
+2023-02-13,6,Trail packs,47
+2023-02-20,7,Trail packs,50
+2023-02-27,8,Trail packs,48
+2023-03-06,9,Trail packs,55
+2023-03-13,10,Trail packs,55
+2023-03-20,11,Trail packs,36
+2023-03-27,12,Trail packs,46
+2023-04-03,13,Trail packs,55
+2023-04-10,14,Trail packs,45
+2023-04-17,15,Trail packs,56
+2023-04-24,16,Trail packs,45
+2023-05-01,17,Trail packs,48
+2023-05-08,18,Trail packs,45
+2023-05-15,19,Trail packs,44
+2023-05-22,20,Trail packs,51
+2023-05-29,21,Trail packs,43
+2023-06-05,22,Trail packs,53
+2023-06-12,23,Trail packs,51
+2023-06-19,24,Trail packs,45
+2023-06-26,25,Trail packs,48
+2023-07-03,26,Trail packs,38
+2023-07-10,27,Trail packs,41
+2023-07-17,28,Trail packs,35
+2023-07-24,29,Trail packs,34
+2023-07-31,30,Trail packs,38
+2023-08-07,31,Trail packs,27
+2023-08-14,32,Trail packs,32
+2023-08-21,33,Trail packs,36
+2023-08-28,34,Trail packs,31
+2023-09-04,35,Trail packs,30
+2023-09-11,36,Trail packs,29
+2023-09-18,37,Trail packs,27
+2023-09-25,38,Trail packs,27
+2023-10-02,39,Trail packs,25
+2023-10-09,40,Trail packs,25
+2023-10-16,41,Trail packs,27
+2023-10-23,42,Trail packs,29
+2023-10-30,43,Trail packs,33
+2023-11-06,44,Trail packs,27
+2023-11-13,45,Trail packs,26
+2023-11-20,46,Trail packs,37
+2023-11-27,47,Trail packs,42
+2023-12-04,48,Trail packs,41
+2023-12-11,49,Trail packs,37
+2023-12-18,50,Trail packs,32
+2023-12-25,51,Trail packs,30
+2024-01-01,52,Trail packs,35
+2024-01-08,53,Trail packs,39
+2024-01-15,54,Trail packs,40
+2024-01-22,55,Trail packs,52
+2024-01-29,56,Trail packs,30
+2024-02-05,57,Trail packs,52
+2024-02-12,58,Trail packs,57
+2024-02-19,59,Trail packs,51
+2024-02-26,60,Trail packs,57
+2024-03-04,61,Trail packs,42
+2024-03-11,62,Trail packs,55
+2024-03-18,63,Trail packs,50
+2024-03-25,64,Trail packs,61
+2024-04-01,65,Trail packs,59
+2024-04-08,66,Trail packs,54
+2024-04-15,67,Trail packs,63
+2024-04-22,68,Trail packs,46
+2024-04-29,69,Trail packs,66
+2024-05-06,70,Trail packs,62
+2024-05-13,71,Trail packs,53
+2024-05-20,72,Trail packs,45
+2024-05-27,73,Trail packs,71
+2024-06-03,74,Trail packs,47
+2024-06-10,75,Trail packs,48
+2024-06-17,76,Trail packs,48
+2024-06-24,77,Trail packs,46
+2024-07-01,78,Trail packs,47
+2024-07-08,79,Trail packs,38
+2024-07-15,80,Trail packs,46
+2024-07-22,81,Trail packs,39
+2024-07-29,82,Trail packs,40
+2024-08-05,83,Trail packs,37
+2024-08-12,84,Trail packs,37
+2024-08-19,85,Trail packs,32
+2024-08-26,86,Trail packs,26
+2024-09-02,87,Trail packs,29
+2024-09-09,88,Trail packs,32
+2024-09-16,89,Trail packs,33
+2024-09-23,90,Trail packs,33
+2024-09-30,91,Trail packs,35
+2024-10-07,92,Trail packs,30
+2024-10-14,93,Trail packs,33
+2024-10-21,94,Trail packs,36
+2024-10-28,95,Trail packs,35
+2024-11-04,96,Trail packs,27
+2024-11-11,97,Trail packs,39
+2024-11-18,98,Trail packs,40
+2024-11-25,99,Trail packs,40
+2024-12-02,100,Trail packs,46
+2024-12-09,101,Trail packs,43
+2024-12-16,102,Trail packs,52
+2024-12-23,103,Trail packs,39
+2024-12-30,104,Trail packs,46
+2025-01-06,105,Trail packs,40
+2025-01-13,106,Trail packs,50
+2025-01-20,107,Trail packs,55
+2025-01-27,108,Trail packs,60
+2025-02-03,109,Trail packs,44
+2025-02-10,110,Trail packs,52
+2025-02-17,111,Trail packs,50
+2025-02-24,112,Trail packs,51
+2025-03-03,113,Trail packs,64
+2025-03-10,114,Trail packs,65
+2025-03-17,115,Trail packs,54
+2025-03-24,116,Trail packs,64
+2025-03-31,117,Trail packs,65
+2025-04-07,118,Trail packs,70
+2025-04-14,119,Trail packs,54
+2025-04-21,120,Trail packs,61
+2025-04-28,121,Trail packs,64
+2025-05-05,122,Trail packs,61
+2025-05-12,123,Trail packs,50
+2025-05-19,124,Trail packs,62
+2025-05-26,125,Trail packs,53
+2025-06-02,126,Trail packs,54
+2025-06-09,127,Trail packs,54
+2025-06-16,128,Trail packs,53
+2025-06-23,129,Trail packs,52
+2025-06-30,130,Trail packs,50
+2025-07-07,131,Trail packs,51
+2023-01-02,0,Rain shells,39
+2023-01-09,1,Rain shells,37
+2023-01-16,2,Rain shells,45
+2023-01-23,3,Rain shells,46
+2023-01-30,4,Rain shells,41
+2023-02-06,5,Rain shells,47
+2023-02-13,6,Rain shells,46
+2023-02-20,7,Rain shells,51
+2023-02-27,8,Rain shells,56
+2023-03-06,9,Rain shells,61
+2023-03-13,10,Rain shells,58
+2023-03-20,11,Rain shells,53
+2023-03-27,12,Rain shells,48
+2023-04-03,13,Rain shells,61
+2023-04-10,14,Rain shells,47
+2023-04-17,15,Rain shells,61
+2023-04-24,16,Rain shells,69
+2023-05-01,17,Rain shells,67
+2023-05-08,18,Rain shells,72
+2023-05-15,19,Rain shells,56
+2023-05-22,20,Rain shells,58
+2023-05-29,21,Rain shells,58
+2023-06-05,22,Rain shells,58
+2023-06-12,23,Rain shells,74
+2023-06-19,24,Rain shells,55
+2023-06-26,25,Rain shells,49
+2023-07-03,26,Rain shells,61
+2023-07-10,27,Rain shells,59
+2023-07-17,28,Rain shells,49
+2023-07-24,29,Rain shells,52
+2023-07-31,30,Rain shells,54
+2023-08-07,31,Rain shells,43
+2023-08-14,32,Rain shells,46
+2023-08-21,33,Rain shells,47
+2023-08-28,34,Rain shells,34
+2023-09-04,35,Rain shells,43
+2023-09-11,36,Rain shells,47
+2023-09-18,37,Rain shells,35
+2023-09-25,38,Rain shells,28
+2023-10-02,39,Rain shells,37
+2023-10-09,40,Rain shells,36
+2023-10-16,41,Rain shells,43
+2023-10-23,42,Rain shells,31
+2023-10-30,43,Rain shells,30
+2023-11-06,44,Rain shells,34
+2023-11-13,45,Rain shells,28
+2023-11-20,46,Rain shells,32
+2023-11-27,47,Rain shells,29
+2023-12-04,48,Rain shells,29
+2023-12-11,49,Rain shells,32
+2023-12-18,50,Rain shells,31
+2023-12-25,51,Rain shells,34
+2024-01-01,52,Rain shells,31
+2024-01-08,53,Rain shells,39
+2024-01-15,54,Rain shells,48
+2024-01-22,55,Rain shells,38
+2024-01-29,56,Rain shells,54
+2024-02-05,57,Rain shells,41
+2024-02-12,58,Rain shells,55
+2024-02-19,59,Rain shells,46
+2024-02-26,60,Rain shells,66
+2024-03-04,61,Rain shells,71
+2024-03-11,62,Rain shells,60
+2024-03-18,63,Rain shells,46
+2024-03-25,64,Rain shells,63
+2024-04-01,65,Rain shells,66
+2024-04-08,66,Rain shells,68
+2024-04-15,67,Rain shells,47
+2024-04-22,68,Rain shells,65
+2024-04-29,69,Rain shells,47
+2024-05-06,70,Rain shells,61
+2024-05-13,71,Rain shells,70
+2024-05-20,72,Rain shells,63
+2024-05-27,73,Rain shells,59
+2024-06-03,74,Rain shells,76
+2024-06-10,75,Rain shells,47
+2024-06-17,76,Rain shells,55
+2024-06-24,77,Rain shells,62
+2024-07-01,78,Rain shells,52
+2024-07-08,79,Rain shells,57
+2024-07-15,80,Rain shells,53
+2024-07-22,81,Rain shells,47
+2024-07-29,82,Rain shells,56
+2024-08-05,83,Rain shells,51
+2024-08-12,84,Rain shells,56
+2024-08-19,85,Rain shells,43
+2024-08-26,86,Rain shells,48
+2024-09-02,87,Rain shells,35
+2024-09-09,88,Rain shells,41
+2024-09-16,89,Rain shells,38
+2024-09-23,90,Rain shells,40
+2024-09-30,91,Rain shells,34
+2024-10-07,92,Rain shells,36
+2024-10-14,93,Rain shells,34
+2024-10-21,94,Rain shells,36
+2024-10-28,95,Rain shells,26
+2024-11-04,96,Rain shells,25
+2024-11-11,97,Rain shells,28
+2024-11-18,98,Rain shells,33
+2024-11-25,99,Rain shells,29
+2024-12-02,100,Rain shells,36
+2024-12-09,101,Rain shells,41
+2024-12-16,102,Rain shells,33
+2024-12-23,103,Rain shells,33
+2024-12-30,104,Rain shells,40
+2025-01-06,105,Rain shells,41
+2025-01-13,106,Rain shells,39
+2025-01-20,107,Rain shells,51
+2025-01-27,108,Rain shells,46
+2025-02-03,109,Rain shells,48
+2025-02-10,110,Rain shells,51
+2025-02-17,111,Rain shells,51
+2025-02-24,112,Rain shells,53
+2025-03-03,113,Rain shells,56
+2025-03-10,114,Rain shells,50
+2025-03-17,115,Rain shells,44
+2025-03-24,116,Rain shells,57
+2025-03-31,117,Rain shells,61
+2025-04-07,118,Rain shells,66
+2025-04-14,119,Rain shells,60
+2025-04-21,120,Rain shells,59
+2025-04-28,121,Rain shells,74
+2025-05-05,122,Rain shells,67
+2025-05-12,123,Rain shells,66
+2025-05-19,124,Rain shells,80
+2025-05-26,125,Rain shells,74
+2025-06-02,126,Rain shells,62
+2025-06-09,127,Rain shells,57
+2025-06-16,128,Rain shells,55
+2025-06-23,129,Rain shells,58
+2025-06-30,130,Rain shells,56
+2025-07-07,131,Rain shells,65
+2023-01-02,0,Travel duffels,45
+2023-01-09,1,Travel duffels,43
+2023-01-16,2,Travel duffels,44
+2023-01-23,3,Travel duffels,38
+2023-01-30,4,Travel duffels,49
+2023-02-06,5,Travel duffels,53
+2023-02-13,6,Travel duffels,52
+2023-02-20,7,Travel duffels,51
+2023-02-27,8,Travel duffels,54
+2023-03-06,9,Travel duffels,65
+2023-03-13,10,Travel duffels,70
+2023-03-20,11,Travel duffels,54
+2023-03-27,12,Travel duffels,59
+2023-04-03,13,Travel duffels,70
+2023-04-10,14,Travel duffels,62
+2023-04-17,15,Travel duffels,65
+2023-04-24,16,Travel duffels,88
+2023-05-01,17,Travel duffels,88
+2023-05-08,18,Travel duffels,87
+2023-05-15,19,Travel duffels,80
+2023-05-22,20,Travel duffels,82
+2023-05-29,21,Travel duffels,69
+2023-06-05,22,Travel duffels,54
+2023-06-12,23,Travel duffels,71
+2023-06-19,24,Travel duffels,79
+2023-06-26,25,Travel duffels,54
+2023-07-03,26,Travel duffels,68
+2023-07-10,27,Travel duffels,65
+2023-07-17,28,Travel duffels,64
+2023-07-24,29,Travel duffels,62
+2023-07-31,30,Travel duffels,70
+2023-08-07,31,Travel duffels,65
+2023-08-14,32,Travel duffels,68
+2023-08-21,33,Travel duffels,62
+2023-08-28,34,Travel duffels,53
+2023-09-04,35,Travel duffels,52
+2023-09-11,36,Travel duffels,45
+2023-09-18,37,Travel duffels,34
+2023-09-25,38,Travel duffels,54
+2023-10-02,39,Travel duffels,41
+2023-10-09,40,Travel duffels,39
+2023-10-16,41,Travel duffels,43
+2023-10-23,42,Travel duffels,39
+2023-10-30,43,Travel duffels,36
+2023-11-06,44,Travel duffels,38
+2023-11-13,45,Travel duffels,47
+2023-11-20,46,Travel duffels,45
+2023-11-27,47,Travel duffels,46
+2023-12-04,48,Travel duffels,37
+2023-12-11,49,Travel duffels,45
+2023-12-18,50,Travel duffels,49
+2023-12-25,51,Travel duffels,46
+2024-01-01,52,Travel duffels,37
+2024-01-08,53,Travel duffels,46
+2024-01-15,54,Travel duffels,47
+2024-01-22,55,Travel duffels,43
+2024-01-29,56,Travel duffels,48
+2024-02-05,57,Travel duffels,61
+2024-02-12,58,Travel duffels,58
+2024-02-19,59,Travel duffels,74
+2024-02-26,60,Travel duffels,60
+2024-03-04,61,Travel duffels,55
+2024-03-11,62,Travel duffels,60
+2024-03-18,63,Travel duffels,53
+2024-03-25,64,Travel duffels,69
+2024-04-01,65,Travel duffels,68
+2024-04-08,66,Travel duffels,63
+2024-04-15,67,Travel duffels,73
+2024-04-22,68,Travel duffels,73
+2024-04-29,69,Travel duffels,68
+2024-05-06,70,Travel duffels,84
+2024-05-13,71,Travel duffels,84
+2024-05-20,72,Travel duffels,74
+2024-05-27,73,Travel duffels,87
+2024-06-03,74,Travel duffels,69
+2024-06-10,75,Travel duffels,74
+2024-06-17,76,Travel duffels,78
+2024-06-24,77,Travel duffels,87
+2024-07-01,78,Travel duffels,65
+2024-07-08,79,Travel duffels,76
+2024-07-15,80,Travel duffels,74
+2024-07-22,81,Travel duffels,75
+2024-07-29,82,Travel duffels,82
+2024-08-05,83,Travel duffels,64
+2024-08-12,84,Travel duffels,62
+2024-08-19,85,Travel duffels,62
+2024-08-26,86,Travel duffels,67
+2024-09-02,87,Travel duffels,58
+2024-09-09,88,Travel duffels,57
+2024-09-16,89,Travel duffels,38
+2024-09-23,90,Travel duffels,52
+2024-09-30,91,Travel duffels,54
+2024-10-07,92,Travel duffels,39
+2024-10-14,93,Travel duffels,43
+2024-10-21,94,Travel duffels,39
+2024-10-28,95,Travel duffels,43
+2024-11-04,96,Travel duffels,48
+2024-11-11,97,Travel duffels,44
+2024-11-18,98,Travel duffels,30
+2024-11-25,99,Travel duffels,43
+2024-12-02,100,Travel duffels,43
+2024-12-09,101,Travel duffels,36
+2024-12-16,102,Travel duffels,40
+2024-12-23,103,Travel duffels,45
+2024-12-30,104,Travel duffels,42
+2025-01-06,105,Travel duffels,59
+2025-01-13,106,Travel duffels,42
+2025-01-20,107,Travel duffels,50
+2025-01-27,108,Travel duffels,52
+2025-02-03,109,Travel duffels,52
+2025-02-10,110,Travel duffels,76
+2025-02-17,111,Travel duffels,60
+2025-02-24,112,Travel duffels,53
+2025-03-03,113,Travel duffels,55
+2025-03-10,114,Travel duffels,62
+2025-03-17,115,Travel duffels,73
+2025-03-24,116,Travel duffels,74
+2025-03-31,117,Travel duffels,85
+2025-04-07,118,Travel duffels,66
+2025-04-14,119,Travel duffels,82
+2025-04-21,120,Travel duffels,71
+2025-04-28,121,Travel duffels,94
+2025-05-05,122,Travel duffels,86
+2025-05-12,123,Travel duffels,76
+2025-05-19,124,Travel duffels,67
+2025-05-26,125,Travel duffels,77
+2025-06-02,126,Travel duffels,85
+2025-06-09,127,Travel duffels,68
+2025-06-16,128,Travel duffels,60
+2025-06-23,129,Travel duffels,75
+2025-06-30,130,Travel duffels,80
+2025-07-07,131,Travel duffels,61
+2023-01-02,0,Training tees,45
+2023-01-09,1,Training tees,49
+2023-01-16,2,Training tees,45
+2023-01-23,3,Training tees,49
+2023-01-30,4,Training tees,45
+2023-02-06,5,Training tees,51
+2023-02-13,6,Training tees,53
+2023-02-20,7,Training tees,77
+2023-02-27,8,Training tees,45
+2023-03-06,9,Training tees,42
+2023-03-13,10,Training tees,64
+2023-03-20,11,Training tees,82
+2023-03-27,12,Training tees,88
+2023-04-03,13,Training tees,68
+2023-04-10,14,Training tees,77
+2023-04-17,15,Training tees,81
+2023-04-24,16,Training tees,76
+2023-05-01,17,Training tees,73
+2023-05-08,18,Training tees,88
+2023-05-15,19,Training tees,73
+2023-05-22,20,Training tees,82
+2023-05-29,21,Training tees,67
+2023-06-05,22,Training tees,93
+2023-06-12,23,Training tees,82
+2023-06-19,24,Training tees,81
+2023-06-26,25,Training tees,85
+2023-07-03,26,Training tees,94
+2023-07-10,27,Training tees,112
+2023-07-17,28,Training tees,104
+2023-07-24,29,Training tees,86
+2023-07-31,30,Training tees,108
+2023-08-07,31,Training tees,63
+2023-08-14,32,Training tees,102
+2023-08-21,33,Training tees,92
+2023-08-28,34,Training tees,61
+2023-09-04,35,Training tees,68
+2023-09-11,36,Training tees,89
+2023-09-18,37,Training tees,64
+2023-09-25,38,Training tees,65
+2023-10-02,39,Training tees,39
+2023-10-09,40,Training tees,62
+2023-10-16,41,Training tees,44
+2023-10-23,42,Training tees,86
+2023-10-30,43,Training tees,51
+2023-11-06,44,Training tees,47
+2023-11-13,45,Training tees,61
+2023-11-20,46,Training tees,50
+2023-11-27,47,Training tees,53
+2023-12-04,48,Training tees,50
+2023-12-11,49,Training tees,50
+2023-12-18,50,Training tees,55
+2023-12-25,51,Training tees,48
+2024-01-01,52,Training tees,51
+2024-01-08,53,Training tees,48
+2024-01-15,54,Training tees,42
+2024-01-22,55,Training tees,41
+2024-01-29,56,Training tees,48
+2024-02-05,57,Training tees,35
+2024-02-12,58,Training tees,45
+2024-02-19,59,Training tees,53
+2024-02-26,60,Training tees,67
+2024-03-04,61,Training tees,72
+2024-03-11,62,Training tees,82
+2024-03-18,63,Training tees,57
+2024-03-25,64,Training tees,74
+2024-04-01,65,Training tees,76
+2024-04-08,66,Training tees,69
+2024-04-15,67,Training tees,95
+2024-04-22,68,Training tees,77
+2024-04-29,69,Training tees,72
+2024-05-06,70,Training tees,70
+2024-05-13,71,Training tees,87
+2024-05-20,72,Training tees,98
+2024-05-27,73,Training tees,111
+2024-06-03,74,Training tees,67
+2024-06-10,75,Training tees,109
+2024-06-17,76,Training tees,90
+2024-06-24,77,Training tees,98
+2024-07-01,78,Training tees,100
+2024-07-08,79,Training tees,98
+2024-07-15,80,Training tees,77
+2024-07-22,81,Training tees,85
+2024-07-29,82,Training tees,83
+2024-08-05,83,Training tees,72
+2024-08-12,84,Training tees,100
+2024-08-19,85,Training tees,95
+2024-08-26,86,Training tees,86
+2024-09-02,87,Training tees,88
+2024-09-09,88,Training tees,97
+2024-09-16,89,Training tees,86
+2024-09-23,90,Training tees,72
+2024-09-30,91,Training tees,73
+2024-10-07,92,Training tees,66
+2024-10-14,93,Training tees,53
+2024-10-21,94,Training tees,49
+2024-10-28,95,Training tees,64
+2024-11-04,96,Training tees,43
+2024-11-11,97,Training tees,51
+2024-11-18,98,Training tees,68
+2024-11-25,99,Training tees,61
+2024-12-02,100,Training tees,51
+2024-12-09,101,Training tees,53
+2024-12-16,102,Training tees,37
+2024-12-23,103,Training tees,50
+2024-12-30,104,Training tees,48
+2025-01-06,105,Training tees,55
+2025-01-13,106,Training tees,55
+2025-01-20,107,Training tees,50
+2025-01-27,108,Training tees,54
+2025-02-03,109,Training tees,52
+2025-02-10,110,Training tees,55
+2025-02-17,111,Training tees,60
+2025-02-24,112,Training tees,63
+2025-03-03,113,Training tees,54
+2025-03-10,114,Training tees,68
+2025-03-17,115,Training tees,50
+2025-03-24,116,Training tees,62
+2025-03-31,117,Training tees,56
+2025-04-07,118,Training tees,98
+2025-04-14,119,Training tees,86
+2025-04-21,120,Training tees,66
+2025-04-28,121,Training tees,85
+2025-05-05,122,Training tees,80
+2025-05-12,123,Training tees,102
+2025-05-19,124,Training tees,93
+2025-05-26,125,Training tees,69
+2025-06-02,126,Training tees,97
+2025-06-09,127,Training tees,80
+2025-06-16,128,Training tees,110
+2025-06-23,129,Training tees,98
+2025-06-30,130,Training tees,95
+2025-07-07,131,Training tees,109
+2023-01-02,0,Bottles,65
+2023-01-09,1,Bottles,54
+2023-01-16,2,Bottles,61
+2023-01-23,3,Bottles,75
+2023-01-30,4,Bottles,82
+2023-02-06,5,Bottles,76
+2023-02-13,6,Bottles,77
+2023-02-20,7,Bottles,87
+2023-02-27,8,Bottles,90
+2023-03-06,9,Bottles,74
+2023-03-13,10,Bottles,95
+2023-03-20,11,Bottles,89
+2023-03-27,12,Bottles,80
+2023-04-03,13,Bottles,96
+2023-04-10,14,Bottles,69
+2023-04-17,15,Bottles,76
+2023-04-24,16,Bottles,72
+2023-05-01,17,Bottles,77
+2023-05-08,18,Bottles,84
+2023-05-15,19,Bottles,101
+2023-05-22,20,Bottles,87
+2023-05-29,21,Bottles,110
+2023-06-05,22,Bottles,80
+2023-06-12,23,Bottles,89
+2023-06-19,24,Bottles,97
+2023-06-26,25,Bottles,106
+2023-07-03,26,Bottles,90
+2023-07-10,27,Bottles,90
+2023-07-17,28,Bottles,82
+2023-07-24,29,Bottles,97
+2023-07-31,30,Bottles,61
+2023-08-07,31,Bottles,104
+2023-08-14,32,Bottles,106
+2023-08-21,33,Bottles,73
+2023-08-28,34,Bottles,104
+2023-09-04,35,Bottles,77
+2023-09-11,36,Bottles,86
+2023-09-18,37,Bottles,84
+2023-09-25,38,Bottles,96
+2023-10-02,39,Bottles,73
+2023-10-09,40,Bottles,100
+2023-10-16,41,Bottles,110
+2023-10-23,42,Bottles,90
+2023-10-30,43,Bottles,86
+2023-11-06,44,Bottles,69
+2023-11-13,45,Bottles,101
+2023-11-20,46,Bottles,83
+2023-11-27,47,Bottles,106
+2023-12-04,48,Bottles,75
+2023-12-11,49,Bottles,73
+2023-12-18,50,Bottles,72
+2023-12-25,51,Bottles,78
+2024-01-01,52,Bottles,79
+2024-01-08,53,Bottles,92
+2024-01-15,54,Bottles,84
+2024-01-22,55,Bottles,88
+2024-01-29,56,Bottles,74
+2024-02-05,57,Bottles,89
+2024-02-12,58,Bottles,83
+2024-02-19,59,Bottles,91
+2024-02-26,60,Bottles,92
+2024-03-04,61,Bottles,83
+2024-03-11,62,Bottles,86
+2024-03-18,63,Bottles,110
+2024-03-25,64,Bottles,79
+2024-04-01,65,Bottles,99
+2024-04-08,66,Bottles,81
+2024-04-15,67,Bottles,121
+2024-04-22,68,Bottles,112
+2024-04-29,69,Bottles,80
+2024-05-06,70,Bottles,81
+2024-05-13,71,Bottles,87
+2024-05-20,72,Bottles,125
+2024-05-27,73,Bottles,94
+2024-06-03,74,Bottles,115
+2024-06-10,75,Bottles,106
+2024-06-17,76,Bottles,123
+2024-06-24,77,Bottles,121
+2024-07-01,78,Bottles,125
+2024-07-08,79,Bottles,96
+2024-07-15,80,Bottles,105
+2024-07-22,81,Bottles,123
+2024-07-29,82,Bottles,89
+2024-08-05,83,Bottles,91
+2024-08-12,84,Bottles,104
+2024-08-19,85,Bottles,114
+2024-08-26,86,Bottles,144
+2024-09-02,87,Bottles,128
+2024-09-09,88,Bottles,113
+2024-09-16,89,Bottles,120
+2024-09-23,90,Bottles,113
+2024-09-30,91,Bottles,126
+2024-10-07,92,Bottles,93
+2024-10-14,93,Bottles,103
+2024-10-21,94,Bottles,96
+2024-10-28,95,Bottles,108
+2024-11-04,96,Bottles,88
+2024-11-11,97,Bottles,111
+2024-11-18,98,Bottles,74
+2024-11-25,99,Bottles,96
+2024-12-02,100,Bottles,80
+2024-12-09,101,Bottles,114
+2024-12-16,102,Bottles,86
+2024-12-23,103,Bottles,75
+2024-12-30,104,Bottles,112
+2025-01-06,105,Bottles,107
+2025-01-13,106,Bottles,74
+2025-01-20,107,Bottles,107
+2025-01-27,108,Bottles,83
+2025-02-03,109,Bottles,101
+2025-02-10,110,Bottles,103
+2025-02-17,111,Bottles,87
+2025-02-24,112,Bottles,107
+2025-03-03,113,Bottles,87
+2025-03-10,114,Bottles,102
+2025-03-17,115,Bottles,112
+2025-03-24,116,Bottles,105
+2025-03-31,117,Bottles,104
+2025-04-07,118,Bottles,94
+2025-04-14,119,Bottles,100
+2025-04-21,120,Bottles,119
+2025-04-28,121,Bottles,115
+2025-05-05,122,Bottles,100
+2025-05-12,123,Bottles,123
+2025-05-19,124,Bottles,98
+2025-05-26,125,Bottles,122
+2025-06-02,126,Bottles,121
+2025-06-09,127,Bottles,128
+2025-06-16,128,Bottles,99
+2025-06-23,129,Bottles,106
+2025-06-30,130,Bottles,123
+2025-07-07,131,Bottles,112
+2023-01-02,0,Packing cubes,76
+2023-01-09,1,Packing cubes,90
+2023-01-16,2,Packing cubes,90
+2023-01-23,3,Packing cubes,81
+2023-01-30,4,Packing cubes,75
+2023-02-06,5,Packing cubes,66
+2023-02-13,6,Packing cubes,69
+2023-02-20,7,Packing cubes,90
+2023-02-27,8,Packing cubes,95
+2023-03-06,9,Packing cubes,88
+2023-03-13,10,Packing cubes,99
+2023-03-20,11,Packing cubes,70
+2023-03-27,12,Packing cubes,88
+2023-04-03,13,Packing cubes,85
+2023-04-10,14,Packing cubes,72
+2023-04-17,15,Packing cubes,95
+2023-04-24,16,Packing cubes,84
+2023-05-01,17,Packing cubes,108
+2023-05-08,18,Packing cubes,79
+2023-05-15,19,Packing cubes,101
+2023-05-22,20,Packing cubes,92
+2023-05-29,21,Packing cubes,100
+2023-06-05,22,Packing cubes,98
+2023-06-12,23,Packing cubes,86
+2023-06-19,24,Packing cubes,101
+2023-06-26,25,Packing cubes,104
+2023-07-03,26,Packing cubes,110
+2023-07-10,27,Packing cubes,101
+2023-07-17,28,Packing cubes,107
+2023-07-24,29,Packing cubes,97
+2023-07-31,30,Packing cubes,113
+2023-08-07,31,Packing cubes,126
+2023-08-14,32,Packing cubes,109
+2023-08-21,33,Packing cubes,83
+2023-08-28,34,Packing cubes,113
+2023-09-04,35,Packing cubes,137
+2023-09-11,36,Packing cubes,108
+2023-09-18,37,Packing cubes,114
+2023-09-25,38,Packing cubes,91
+2023-10-02,39,Packing cubes,102
+2023-10-09,40,Packing cubes,121
+2023-10-16,41,Packing cubes,128
+2023-10-23,42,Packing cubes,110
+2023-10-30,43,Packing cubes,104
+2023-11-06,44,Packing cubes,103
+2023-11-13,45,Packing cubes,112
+2023-11-20,46,Packing cubes,100
+2023-11-27,47,Packing cubes,71
+2023-12-04,48,Packing cubes,105
+2023-12-11,49,Packing cubes,92
+2023-12-18,50,Packing cubes,107
+2023-12-25,51,Packing cubes,108
+2024-01-01,52,Packing cubes,124
+2024-01-08,53,Packing cubes,138
+2024-01-15,54,Packing cubes,92
+2024-01-22,55,Packing cubes,85
+2024-01-29,56,Packing cubes,84
+2024-02-05,57,Packing cubes,107
+2024-02-12,58,Packing cubes,102
+2024-02-19,59,Packing cubes,95
+2024-02-26,60,Packing cubes,83
+2024-03-04,61,Packing cubes,109
+2024-03-11,62,Packing cubes,96
+2024-03-18,63,Packing cubes,113
+2024-03-25,64,Packing cubes,119
+2024-04-01,65,Packing cubes,123
+2024-04-08,66,Packing cubes,119
+2024-04-15,67,Packing cubes,101
+2024-04-22,68,Packing cubes,104
+2024-04-29,69,Packing cubes,106
+2024-05-06,70,Packing cubes,119
+2024-05-13,71,Packing cubes,103
+2024-05-20,72,Packing cubes,94
+2024-05-27,73,Packing cubes,101
+2024-06-03,74,Packing cubes,117
+2024-06-10,75,Packing cubes,102
+2024-06-17,76,Packing cubes,129
+2024-06-24,77,Packing cubes,160
+2024-07-01,78,Packing cubes,114
+2024-07-08,79,Packing cubes,99
+2024-07-15,80,Packing cubes,105
+2024-07-22,81,Packing cubes,122
+2024-07-29,82,Packing cubes,120
+2024-08-05,83,Packing cubes,137
+2024-08-12,84,Packing cubes,118
+2024-08-19,85,Packing cubes,151
+2024-08-26,86,Packing cubes,153
+2024-09-02,87,Packing cubes,147
+2024-09-09,88,Packing cubes,117
+2024-09-16,89,Packing cubes,134
+2024-09-23,90,Packing cubes,121
+2024-09-30,91,Packing cubes,121
+2024-10-07,92,Packing cubes,113
+2024-10-14,93,Packing cubes,107
+2024-10-21,94,Packing cubes,104
+2024-10-28,95,Packing cubes,136
+2024-11-04,96,Packing cubes,117
+2024-11-11,97,Packing cubes,107
+2024-11-18,98,Packing cubes,122
+2024-11-25,99,Packing cubes,137
+2024-12-02,100,Packing cubes,121
+2024-12-09,101,Packing cubes,102
+2024-12-16,102,Packing cubes,110
+2024-12-23,103,Packing cubes,62
+2024-12-30,104,Packing cubes,104
+2025-01-06,105,Packing cubes,91
+2025-01-13,106,Packing cubes,137
+2025-01-20,107,Packing cubes,81
+2025-01-27,108,Packing cubes,134
+2025-02-03,109,Packing cubes,113
+2025-02-10,110,Packing cubes,88
+2025-02-17,111,Packing cubes,124
+2025-02-24,112,Packing cubes,124
+2025-03-03,113,Packing cubes,119
+2025-03-10,114,Packing cubes,124
+2025-03-17,115,Packing cubes,92
+2025-03-24,116,Packing cubes,93
+2025-03-31,117,Packing cubes,93
+2025-04-07,118,Packing cubes,91
+2025-04-14,119,Packing cubes,149
+2025-04-21,120,Packing cubes,106
+2025-04-28,121,Packing cubes,113
+2025-05-05,122,Packing cubes,137
+2025-05-12,123,Packing cubes,108
+2025-05-19,124,Packing cubes,95
+2025-05-26,125,Packing cubes,122
+2025-06-02,126,Packing cubes,151
+2025-06-09,127,Packing cubes,135
+2025-06-16,128,Packing cubes,112
+2025-06-23,129,Packing cubes,132
+2025-06-30,130,Packing cubes,137
+2025-07-07,131,Packing cubes,111
+2023-01-02,0,Wool socks,108
+2023-01-09,1,Wool socks,95
+2023-01-16,2,Wool socks,86
+2023-01-23,3,Wool socks,121
+2023-01-30,4,Wool socks,116
+2023-02-06,5,Wool socks,106
+2023-02-13,6,Wool socks,93
+2023-02-20,7,Wool socks,65
+2023-02-27,8,Wool socks,94
+2023-03-06,9,Wool socks,105
+2023-03-13,10,Wool socks,89
+2023-03-20,11,Wool socks,85
+2023-03-27,12,Wool socks,102
+2023-04-03,13,Wool socks,88
+2023-04-10,14,Wool socks,92
+2023-04-17,15,Wool socks,104
+2023-04-24,16,Wool socks,87
+2023-05-01,17,Wool socks,74
+2023-05-08,18,Wool socks,74
+2023-05-15,19,Wool socks,102
+2023-05-22,20,Wool socks,111
+2023-05-29,21,Wool socks,84
+2023-06-05,22,Wool socks,120
+2023-06-12,23,Wool socks,117
+2023-06-19,24,Wool socks,106
+2023-06-26,25,Wool socks,96
+2023-07-03,26,Wool socks,119
+2023-07-10,27,Wool socks,110
+2023-07-17,28,Wool socks,100
+2023-07-24,29,Wool socks,84
+2023-07-31,30,Wool socks,115
+2023-08-07,31,Wool socks,95
+2023-08-14,32,Wool socks,129
+2023-08-21,33,Wool socks,113
+2023-08-28,34,Wool socks,135
+2023-09-04,35,Wool socks,127
+2023-09-11,36,Wool socks,128
+2023-09-18,37,Wool socks,99
+2023-09-25,38,Wool socks,135
+2023-10-02,39,Wool socks,131
+2023-10-09,40,Wool socks,82
+2023-10-16,41,Wool socks,109
+2023-10-23,42,Wool socks,108
+2023-10-30,43,Wool socks,72
+2023-11-06,44,Wool socks,94
+2023-11-13,45,Wool socks,94
+2023-11-20,46,Wool socks,93
+2023-11-27,47,Wool socks,102
+2023-12-04,48,Wool socks,99
+2023-12-11,49,Wool socks,116
+2023-12-18,50,Wool socks,116
+2023-12-25,51,Wool socks,102
+2024-01-01,52,Wool socks,86
+2024-01-08,53,Wool socks,95
+2024-01-15,54,Wool socks,109
+2024-01-22,55,Wool socks,91
+2024-01-29,56,Wool socks,108
+2024-02-05,57,Wool socks,82
+2024-02-12,58,Wool socks,90
+2024-02-19,59,Wool socks,83
+2024-02-26,60,Wool socks,104
+2024-03-04,61,Wool socks,96
+2024-03-11,62,Wool socks,100
+2024-03-18,63,Wool socks,102
+2024-03-25,64,Wool socks,99
+2024-04-01,65,Wool socks,122
+2024-04-08,66,Wool socks,105
+2024-04-15,67,Wool socks,56
+2024-04-22,68,Wool socks,104
+2024-04-29,69,Wool socks,102
+2024-05-06,70,Wool socks,113
+2024-05-13,71,Wool socks,91
+2024-05-20,72,Wool socks,86
+2024-05-27,73,Wool socks,108
+2024-06-03,74,Wool socks,83
+2024-06-10,75,Wool socks,104
+2024-06-17,76,Wool socks,104
+2024-06-24,77,Wool socks,114
+2024-07-01,78,Wool socks,102
+2024-07-08,79,Wool socks,123
+2024-07-15,80,Wool socks,131
+2024-07-22,81,Wool socks,115
+2024-07-29,82,Wool socks,122
+2024-08-05,83,Wool socks,137
+2024-08-12,84,Wool socks,95
+2024-08-19,85,Wool socks,120
+2024-08-26,86,Wool socks,136
+2024-09-02,87,Wool socks,122
+2024-09-09,88,Wool socks,110
+2024-09-16,89,Wool socks,117
+2024-09-23,90,Wool socks,121
+2024-09-30,91,Wool socks,134
+2024-10-07,92,Wool socks,99
+2024-10-14,93,Wool socks,135
+2024-10-21,94,Wool socks,134
+2024-10-28,95,Wool socks,119
+2024-11-04,96,Wool socks,121
+2024-11-11,97,Wool socks,110
+2024-11-18,98,Wool socks,118
+2024-11-25,99,Wool socks,113
+2024-12-02,100,Wool socks,110
+2024-12-09,101,Wool socks,103
+2024-12-16,102,Wool socks,104
+2024-12-23,103,Wool socks,109
+2024-12-30,104,Wool socks,84
+2025-01-06,105,Wool socks,116
+2025-01-13,106,Wool socks,86
+2025-01-20,107,Wool socks,108
+2025-01-27,108,Wool socks,68
+2025-02-03,109,Wool socks,102
+2025-02-10,110,Wool socks,93
+2025-02-17,111,Wool socks,121
+2025-02-24,112,Wool socks,114
+2025-03-03,113,Wool socks,87
+2025-03-10,114,Wool socks,86
+2025-03-17,115,Wool socks,99
+2025-03-24,116,Wool socks,99
+2025-03-31,117,Wool socks,97
+2025-04-07,118,Wool socks,98
+2025-04-14,119,Wool socks,90
+2025-04-21,120,Wool socks,75
+2025-04-28,121,Wool socks,93
+2025-05-05,122,Wool socks,81
+2025-05-12,123,Wool socks,109
+2025-05-19,124,Wool socks,81
+2025-05-26,125,Wool socks,88
+2025-06-02,126,Wool socks,106
+2025-06-09,127,Wool socks,109
+2025-06-16,128,Wool socks,82
+2025-06-23,129,Wool socks,97
+2025-06-30,130,Wool socks,109
+2025-07-07,131,Wool socks,125
+2023-01-02,0,Utility totes,125
+2023-01-09,1,Utility totes,111
+2023-01-16,2,Utility totes,107
+2023-01-23,3,Utility totes,115
+2023-01-30,4,Utility totes,95
+2023-02-06,5,Utility totes,98
+2023-02-13,6,Utility totes,135
+2023-02-20,7,Utility totes,116
+2023-02-27,8,Utility totes,100
+2023-03-06,9,Utility totes,117
+2023-03-13,10,Utility totes,127
+2023-03-20,11,Utility totes,94
+2023-03-27,12,Utility totes,105
+2023-04-03,13,Utility totes,92
+2023-04-10,14,Utility totes,81
+2023-04-17,15,Utility totes,118
+2023-04-24,16,Utility totes,112
+2023-05-01,17,Utility totes,92
+2023-05-08,18,Utility totes,85
+2023-05-15,19,Utility totes,101
+2023-05-22,20,Utility totes,0
+2023-05-29,21,Utility totes,90
+2023-06-05,22,Utility totes,110
+2023-06-12,23,Utility totes,98
+2023-06-19,24,Utility totes,96
+2023-06-26,25,Utility totes,123
+2023-07-03,26,Utility totes,114
+2023-07-10,27,Utility totes,0
+2023-07-17,28,Utility totes,95
+2023-07-24,29,Utility totes,130
+2023-07-31,30,Utility totes,126
+2023-08-07,31,Utility totes,118
+2023-08-14,32,Utility totes,112
+2023-08-21,33,Utility totes,132
+2023-08-28,34,Utility totes,0
+2023-09-04,35,Utility totes,111
+2023-09-11,36,Utility totes,127
+2023-09-18,37,Utility totes,0
+2023-09-25,38,Utility totes,106
+2023-10-02,39,Utility totes,131
+2023-10-09,40,Utility totes,153
+2023-10-16,41,Utility totes,118
+2023-10-23,42,Utility totes,108
+2023-10-30,43,Utility totes,114
+2023-11-06,44,Utility totes,150
+2023-11-13,45,Utility totes,137
+2023-11-20,46,Utility totes,118
+2023-11-27,47,Utility totes,121
+2023-12-04,48,Utility totes,134
+2023-12-11,49,Utility totes,0
+2023-12-18,50,Utility totes,126
+2023-12-25,51,Utility totes,0
+2024-01-01,52,Utility totes,101
+2024-01-08,53,Utility totes,0
+2024-01-15,54,Utility totes,110
+2024-01-22,55,Utility totes,95
+2024-01-29,56,Utility totes,102
+2024-02-05,57,Utility totes,105
+2024-02-12,58,Utility totes,105
+2024-02-19,59,Utility totes,0
+2024-02-26,60,Utility totes,113
+2024-03-04,61,Utility totes,101
+2024-03-11,62,Utility totes,103
+2024-03-18,63,Utility totes,103
+2024-03-25,64,Utility totes,122
+2024-04-01,65,Utility totes,0
+2024-04-08,66,Utility totes,120
+2024-04-15,67,Utility totes,117
+2024-04-22,68,Utility totes,102
+2024-04-29,69,Utility totes,114
+2024-05-06,70,Utility totes,103
+2024-05-13,71,Utility totes,87
+2024-05-20,72,Utility totes,111
+2024-05-27,73,Utility totes,106
+2024-06-03,74,Utility totes,0
+2024-06-10,75,Utility totes,90
+2024-06-17,76,Utility totes,99
+2024-06-24,77,Utility totes,105
+2024-07-01,78,Utility totes,118
+2024-07-08,79,Utility totes,93
+2024-07-15,80,Utility totes,92
+2024-07-22,81,Utility totes,0
+2024-07-29,82,Utility totes,129
+2024-08-05,83,Utility totes,0
+2024-08-12,84,Utility totes,144
+2024-08-19,85,Utility totes,105
+2024-08-26,86,Utility totes,148
+2024-09-02,87,Utility totes,0
+2024-09-09,88,Utility totes,113
+2024-09-16,89,Utility totes,122
+2024-09-23,90,Utility totes,118
+2024-09-30,91,Utility totes,141
+2024-10-07,92,Utility totes,143
+2024-10-14,93,Utility totes,103
+2024-10-21,94,Utility totes,135
+2024-10-28,95,Utility totes,140
+2024-11-04,96,Utility totes,114
+2024-11-11,97,Utility totes,0
+2024-11-18,98,Utility totes,128
+2024-11-25,99,Utility totes,120
+2024-12-02,100,Utility totes,134
+2024-12-09,101,Utility totes,101
+2024-12-16,102,Utility totes,144
+2024-12-23,103,Utility totes,121
+2024-12-30,104,Utility totes,121
+2025-01-06,105,Utility totes,123
+2025-01-13,106,Utility totes,155
+2025-01-20,107,Utility totes,0
+2025-01-27,108,Utility totes,107
+2025-02-03,109,Utility totes,125
+2025-02-10,110,Utility totes,0
+2025-02-17,111,Utility totes,0
+2025-02-24,112,Utility totes,108
+2025-03-03,113,Utility totes,107
+2025-03-10,114,Utility totes,116
+2025-03-17,115,Utility totes,117
+2025-03-24,116,Utility totes,0
+2025-03-31,117,Utility totes,0
+2025-04-07,118,Utility totes,112
+2025-04-14,119,Utility totes,89
+2025-04-21,120,Utility totes,132
+2025-04-28,121,Utility totes,100
+2025-05-05,122,Utility totes,71
+2025-05-12,123,Utility totes,96
+2025-05-19,124,Utility totes,108
+2025-05-26,125,Utility totes,95
+2025-06-02,126,Utility totes,109
+2025-06-09,127,Utility totes,102
+2025-06-16,128,Utility totes,0
+2025-06-23,129,Utility totes,156
+2025-06-30,130,Utility totes,121
+2025-07-07,131,Utility totes,105
