@@ -1,0 +1,14 @@
+{
+  "release": "1.1",
+  "source": "Excel-repaired and Excel-saved workbook",
+  "preserved_cells_and_formulas": true,
+  "charts": 2,
+  "selectors": 2,
+  "pivot_tables": 1,
+  "pivot_cache_records": 528,
+  "kpi_cache_matches_independent_totals": true,
+  "subtotal_consistency": true,
+  "sha256": "f1fbbe20d38d951e623b4bb41018f4fb031d1342dea2b360d8b89707b7fec982",
+  "native_clean_reopen": "User confirmed error-free open on 2026-09-19",
+  "native_pivot_refresh": "User confirmed error-free Refresh All on 2026-09-19"
+}
