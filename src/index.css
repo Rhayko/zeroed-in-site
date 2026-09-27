@@ -208,58 +208,6 @@ a:focus-visible { outline: 2px solid #d4e5a5; outline-offset: 5px; }
   pointer-events: none;
 }
 
-.military-field-feature {
-  display:grid;
-  grid-template-columns:minmax(190px,280px) 1fr;
-  gap:clamp(28px,5vw,72px);
-  align-items:center;
-  margin-top:28px;
-  padding:clamp(20px,4vw,42px);
-  border:1px solid #a6b87e2e;
-  border-radius:20px;
-  background:linear-gradient(135deg,#11170f,#1b2318);
-}
-
-.military-field-media {
-  position:relative;
-  aspect-ratio:9 / 16;
-  max-height:420px;
-  overflow:hidden;
-  border-radius:12px;
-  background:#080b08;
-  box-shadow:0 16px 35px #0007;
-}
-
-.military-field-media img {
-  display:block;
-  width:100%;
-  height:100%;
-  object-fit:cover;
-}
-
-.military-field-copy h3 {
-  margin:12px 0 14px;
-  max-width:620px;
-  color:#edf0e5;
-  font-size:clamp(1.8rem,4vw,3.2rem);
-  line-height:1.08;
-  letter-spacing:-.045em;
-}
-
-.military-field-copy > p:not(.section-kicker) {
-  margin:0 0 22px;
-  max-width:610px;
-  color:#aeb8a2;
-  font-size:14px;
-  line-height:1.8;
-}
-
-.military-field-copy a {
-  color:#cbd5ad;
-  font-size:12px;
-  text-decoration:none;
-}
-
 .card-content {
   position: relative;
   padding: 24px 26px 27px;
@@ -524,8 +472,3 @@ a:focus-visible { outline: 2px solid #d4e5a5; outline-offset: 5px; }
 .portfolio-note { color:#919c82; font-size:11px; margin:20px 0 10px; }
 @media(max-width:820px) { .analytics-heading { grid-template-columns:1fr; gap:22px; } .top-links { gap:16px; flex-wrap:wrap; } }
 @media(max-width:560px) { .analytics-grid { grid-template-columns:1fr; } .analytics-project { padding:23px; } .recruiter-actions { gap:16px; } .portfolio-caption { font-size:8px; letter-spacing:.06em; } .analytics-section { padding-bottom:44px; margin-bottom:44px; } }
-
-@media(max-width:560px) {
-  .military-field-feature { grid-template-columns:1fr; }
-  .military-field-media { width:min(100%,250px); max-height:none; margin:0 auto; }
-}

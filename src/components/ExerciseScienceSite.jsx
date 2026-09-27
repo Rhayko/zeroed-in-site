@@ -309,26 +309,6 @@ export default function ExerciseScienceSite() {
           ))}
         </section>
 
-        <aside className="military-field-feature" aria-labelledby="military-field-title">
-          <div className="military-field-media">
-            <img
-              src={assetUrl("zeroed-in-military-performance-fast.gif")}
-              alt="Zeroed In military performance field training montage"
-              loading="lazy"
-              decoding="async"
-            />
-          </div>
-          <div className="military-field-copy">
-            <p className="section-kicker">Military performance / Field application</p>
-            <h3 id="military-field-title">Training that carries into the task.</h3>
-            <p>
-              Field work brings movement, equipment, decision-making, and time pressure
-              together. The objective is not isolated fitness; it is reliable performance
-              under realistic constraints.
-            </p>
-            <a href="#military-performance">Return to Military Performance ↑</a>
-          </div>
-        </aside>
         </section>
       </main>
 
