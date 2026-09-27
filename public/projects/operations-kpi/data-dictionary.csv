@@ -1,0 +1,22 @@
+field,definition
+record_id,Unique YYYYMMDD-site initial-shift key.
+date,"Operating date, YYYY-MM-DD."
+month,"Reporting month, YYYY-MM."
+site,Fictional site: North or South.
+shift,Fictional shift: AM or PM.
+orders_due,Orders promised within this daily shift cohort; positive integer.
+on_time_orders,Orders dispatched at or before promised cutoff.
+late_orders,Orders dispatched after cutoff but that day; on_time + late = due.
+units_shipped,Physical units across all dispatched orders; not orders.
+rework_orders,Distinct orders needing correction; may overlap on-time or late.
+planned_hours,Planned direct productive regular labor hours.
+regular_hours,Actual direct productive regular labor hours after modeled absence.
+overtime_hours,Additional direct productive labor hours.
+complex_orders,Subset of due orders needing modeled complex handling.
+standard_hours,"((due-complex)*9 + complex*15)/60, rounded to 2 decimals; modeled workload."
+downtime_minutes,Equipment downtime minutes; not labor-hours lost.
+capacity_late,Late orders assigned primary capacity reason.
+rework_late,Late orders assigned primary rework reason; never exceeds rework_orders.
+stock_late,Late orders assigned primary stock reason.
+carrier_late,Late orders assigned primary carrier reason.
+other_late,Late orders assigned other primary reason.

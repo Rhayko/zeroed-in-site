@@ -1,8 +1,8 @@
-// vite.config.js
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
 export default defineConfig({
-  base: '/zoned-in/', // MUST match GitHub repo name
-  plugins: [react()]
-})
+  cacheDir: ".vite-preview",
+  base: "/zeroed-in-site/",
+  plugins: [react()],
+});
