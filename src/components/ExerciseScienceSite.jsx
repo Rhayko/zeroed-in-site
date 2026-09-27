@@ -220,7 +220,6 @@ function DataPortfolio() {
         ))}
       </div>
       <p className="portfolio-note">Projects use synthetic datasets to demonstrate analytical methods and business decisions.</p>
-      <a className="resource-link" href={`${import.meta.env.BASE_URL}downloads/Zeroed-In-Data-Portfolio-Interview-Guide.pdf`} download>Download Projects 1–4 interview guide (PDF) ↗</a>
     </section>
   );
 }
