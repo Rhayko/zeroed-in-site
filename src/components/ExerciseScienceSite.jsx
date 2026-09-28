@@ -186,6 +186,7 @@ function FocusCard({ card, index }) {
 }
 
 const analyticsProjects = [
+  { title: "Data Quality Inspector", domain: "Data Quality / Python", tools: "Python · Pandas · NumPy · Matplotlib · Automated Testing", status: "Featured", description: "I built a reusable CSV inspection tool that profiles structure, identifies missing and duplicate records, validates expected types, flags potential outliers, and generates a clear report with supporting visualizations.", href: "https://github.com/Rhayko/data-quality-inspector", featured: true },
   { title: "Operations KPI Dashboard", domain: "Operations / Manufacturing", tools: "Excel · PivotTables · SUMIFS · Lookup Logic · KPI Design", status: "Completed", description: "Investigate dispatch reliability, workload and throughput across 528 synthetic shift records. Includes a working Excel dashboard, validation checks, source data and a reproducible generator.", path: "operations-kpi" },
   { title: "Business & Sales Analysis", domain: "Business / Sales", tools: "SQL · JOINs · CTEs · Window Functions · Power BI Measures", status: "Completed", description: "Trace 2,400 synthetic orders from gross sales to contribution after returns, fulfillment and marketing. The SQL model protects each metric's grain and includes a Power BI handoff.", path: "business-operations" },
   { title: "Workforce Planning Analysis", domain: "Workforce / HR", tools: "Python · Pandas · Data Quality · Confidence Intervals · Hypothesis Testing", status: "Completed", description: "Examine department-level turnover, overtime, absence and missing engagement scores for 720 fictional employees without turning associations into individual risk claims.", path: "workforce-analysis" },
@@ -205,16 +206,22 @@ function DataPortfolio() {
       <ul className="analytics-skills" aria-label="Analytics skills">
         {["Python", "SQL", "Excel", "Power BI", "SPSS", "Data Cleaning", "Data Visualization", "KPI Analysis", "Statistical Analysis"].map(skill => <li key={skill}>{skill}</li>)}
       </ul>
-      <div className="portfolio-caption"><span>Independent portfolio projects</span><span>04 / Completed projects</span></div>
+      <div className="portfolio-caption"><span>Independent portfolio projects</span><span>05 / Completed projects</span></div>
       <div className="analytics-grid">
         {analyticsProjects.map((project, index) => (
-          <article className={`analytics-project ${index === 0 ? "analytics-project-featured" : ""}`} key={project.title}>
-            <div className="project-topline"><span className="project-index">0{index + 1}</span><span className="project-status">{project.status}</span></div>
-            <p className="project-domain">{project.domain}</p>
-            <h3>{project.title}</h3>
-            <p className="project-tools">{project.tools}</p>
-            <p className="project-description">{project.description}</p>
-            <a className="resource-link" href={`${import.meta.env.BASE_URL}projects/${project.path}/index.html`}>View case study & downloads ↗</a>
+          <article className={`analytics-project ${project.featured ? "analytics-project-featured" : ""}`} key={project.title}>
+            <div className="project-topline"><span className="project-index">{String(index + 1).padStart(2, "0")}</span><span className="project-status">{project.status}</span></div>
+            <div className="project-body">
+              <div>
+                <p className="project-domain">{project.domain}</p>
+                <h3>{project.title}</h3>
+                <p className="project-tools">{project.tools}</p>
+              </div>
+              <div>
+                <p className="project-description">{project.description}</p>
+                <a className="resource-link project-link" href={project.href ?? `${import.meta.env.BASE_URL}projects/${project.path}/index.html`} target={project.featured ? "_blank" : undefined} rel={project.featured ? "noopener noreferrer" : undefined}>{project.featured ? "Explore the GitHub project" : "View case study & downloads"} <span aria-hidden="true">↗</span></a>
+              </div>
+            </div>
             <p className="project-disclosure">Independent Portfolio Project <span aria-hidden="true">|</span> Synthetic Dataset</p>
           </article>
         ))}
