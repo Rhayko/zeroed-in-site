@@ -1,0 +1,721 @@
+employee_id,department,job_level,tenure_months,training_hours_2025,overtime_hours_q4,absence_days_2025,engagement_score,voluntary_exit_2025
+EMP-0001,Operations,Associate,16,6.1,48.9,1,58.6,1
+EMP-0002,Operations,Manager,103,17.0,35.1,4,78.8,0
+EMP-0003,Operations,Manager,135,27.4,41.5,5,83.3,0
+EMP-0004,Customer Support,Manager,95,14.6,56.9,2,61.1,0
+EMP-0005,Operations,Specialist,56,11.1,51.2,7,65.7,1
+EMP-0006,Sales,Associate,65,31.6,38.9,5,72.4,0
+EMP-0007,Technology,Specialist,28,32.2,42.0,2,75.7,0
+EMP-0008,Sales,Specialist,29,30.4,43.7,0,72.2,0
+EMP-0009,Sales,Manager,116,25.7,17.0,2,71.3,0
+EMP-0010,Operations,Manager,66,37.8,18.8,2,65.7,0
+EMP-0011,Sales,Associate,35,34.1,46.5,2,67.1,1
+EMP-0012,Technology,Specialist,142,32.4,10.3,1,76.2,0
+EMP-0013,Technology,Associate,92,11.1,46.5,2,83.3,0
+EMP-0014,Operations,Specialist,139,18.8,33.8,5,69.3,0
+EMP-0015,Customer Support,Specialist,99,22.1,49.1,3,63.7,0
+EMP-0016,Customer Support,Associate,31,10.5,72.1,7,55.5,0
+EMP-0017,Technology,Associate,14,17.8,51.0,2,77.2,0
+EMP-0018,Operations,Specialist,34,14.7,26.3,2,81.1,1
+EMP-0019,Sales,Specialist,27,28.7,29.8,4,84.7,0
+EMP-0020,Operations,Associate,50,12.2,41.7,4,75.0,0
+EMP-0021,Customer Support,Associate,12,21.2,25.1,2,75.0,0
+EMP-0022,Sales,Associate,9,22.8,32.8,3,77.1,0
+EMP-0023,Technology,Specialist,136,15.3,19.7,3,74.2,0
+EMP-0024,Sales,Associate,98,11.4,38.9,4,81.4,0
+EMP-0025,Operations,Specialist,109,20.1,74.2,4,77.5,0
+EMP-0026,Sales,Specialist,113,45.4,11.1,1,83.7,0
+EMP-0027,Sales,Associate,54,24.2,32.8,2,80.0,0
+EMP-0028,Customer Support,Specialist,90,7.5,39.5,3,73.6,0
+EMP-0029,Sales,Associate,66,16.8,71.7,2,,1
+EMP-0030,Operations,Specialist,124,25.3,42.5,3,73.2,0
+EMP-0031,Operations,Associate,32,32.1,53.2,0,72.8,0
+EMP-0032,Operations,Specialist,45,23.6,40.5,3,77.5,0
+EMP-0033,Technology,Specialist,131,18.1,26.2,0,66.0,0
+EMP-0034,Technology,Specialist,60,39.7,7.2,5,85.6,0
+EMP-0035,Operations,Associate,79,33.5,51.0,3,78.5,0
+EMP-0036,Operations,Specialist,24,34.5,22.0,3,78.6,0
+EMP-0037,Customer Support,Associate,56,35.4,49.1,2,78.7,0
+EMP-0038,Sales,Specialist,131,13.7,14.9,3,74.0,0
+EMP-0039,Sales,Associate,121,26.5,40.8,4,63.5,0
+EMP-0040,Operations,Associate,34,23.2,61.7,7,66.0,0
+EMP-0041,Operations,Associate,49,21.1,32.1,5,69.1,0
+EMP-0042,Sales,Specialist,103,22.6,29.2,1,67.4,0
+EMP-0043,Customer Support,Specialist,75,33.8,47.4,2,72.0,0
+EMP-0044,Technology,Specialist,102,30.7,47.5,3,75.5,0
+EMP-0045,Operations,Associate,83,26.4,63.1,2,73.5,0
+EMP-0046,Sales,Manager,134,38.1,36.4,2,81.9,0
+EMP-0047,Customer Support,Specialist,18,11.5,13.3,4,63.7,0
+EMP-0048,Sales,Associate,76,19.2,31.7,2,90.0,0
+EMP-0049,Customer Support,Associate,73,35.8,66.2,5,,0
+EMP-0050,Customer Support,Associate,66,0.0,36.5,3,64.8,0
+EMP-0051,Customer Support,Manager,79,15.3,36.0,3,74.6,0
+EMP-0052,Operations,Specialist,41,15.8,66.7,5,49.8,1
+EMP-0053,Customer Support,Associate,118,17.7,58.2,0,78.6,1
+EMP-0054,Sales,Associate,39,30.0,19.5,1,83.3,0
+EMP-0055,Sales,Specialist,41,23.6,33.3,4,66.2,0
+EMP-0056,Sales,Associate,136,35.7,27.3,3,92.2,0
+EMP-0057,Operations,Specialist,115,37.8,34.6,4,66.3,0
+EMP-0058,Customer Support,Associate,25,28.6,75.1,7,71.0,1
+EMP-0059,Operations,Specialist,88,27.0,65.5,3,75.0,0
+EMP-0060,Customer Support,Associate,108,17.4,48.3,1,79.1,0
+EMP-0061,Operations,Associate,109,17.9,25.2,1,,0
+EMP-0062,Sales,Specialist,142,28.8,9.4,4,72.6,0
+EMP-0063,Sales,Associate,57,14.3,32.5,4,66.2,0
+EMP-0064,Operations,Specialist,35,17.6,32.3,2,92.2,0
+EMP-0065,Customer Support,Associate,121,23.4,52.1,2,87.8,0
+EMP-0066,Operations,Specialist,45,31.3,43.7,4,67.9,1
+EMP-0067,Sales,Specialist,52,28.4,26.4,3,91.2,0
+EMP-0068,Sales,Specialist,107,34.5,34.3,3,83.7,0
+EMP-0069,Sales,Specialist,25,23.7,30.6,0,78.3,0
+EMP-0070,Customer Support,Manager,62,23.3,59.8,7,65.5,0
+EMP-0071,Technology,Associate,117,9.5,59.8,4,72.6,0
+EMP-0072,Technology,Associate,13,30.2,11.8,3,72.1,0
+EMP-0073,Sales,Associate,30,24.1,11.5,2,93.3,0
+EMP-0074,Customer Support,Specialist,129,39.2,30.2,1,76.6,0
+EMP-0075,Sales,Associate,105,41.9,41.2,1,80.9,0
+EMP-0076,Technology,Associate,144,0.6,26.8,3,75.0,1
+EMP-0077,Sales,Specialist,10,19.8,37.3,0,73.1,0
+EMP-0078,Technology,Associate,6,4.8,71.4,5,64.8,0
+EMP-0079,Technology,Associate,16,19.0,51.9,2,,0
+EMP-0080,Sales,Associate,68,22.7,47.4,7,79.2,1
+EMP-0081,Sales,Specialist,17,16.3,32.4,3,85.0,0
+EMP-0082,Technology,Specialist,115,31.0,36.4,3,82.8,0
+EMP-0083,Operations,Manager,133,11.4,35.9,3,72.9,0
+EMP-0084,Operations,Associate,58,31.7,45.6,5,,0
+EMP-0085,Sales,Specialist,86,26.3,63.0,7,77.0,0
+EMP-0086,Operations,Associate,81,19.0,32.5,5,63.4,0
+EMP-0087,Customer Support,Specialist,44,18.6,52.5,4,75.9,0
+EMP-0088,Technology,Associate,32,21.1,20.5,3,66.5,0
+EMP-0089,Sales,Specialist,92,12.4,44.8,5,71.9,0
+EMP-0090,Customer Support,Associate,17,14.6,41.4,4,54.2,0
+EMP-0091,Operations,Associate,142,11.5,45.5,4,74.4,0
+EMP-0092,Customer Support,Specialist,98,21.8,49.3,3,61.4,0
+EMP-0093,Operations,Associate,94,26.5,23.0,2,100.0,0
+EMP-0094,Sales,Specialist,73,25.2,44.8,3,73.1,1
+EMP-0095,Technology,Associate,101,25.5,41.3,0,86.2,0
+EMP-0096,Technology,Associate,32,22.8,37.7,3,61.3,0
+EMP-0097,Technology,Associate,97,31.1,15.1,4,89.2,0
+EMP-0098,Technology,Associate,28,33.0,54.3,1,73.9,0
+EMP-0099,Customer Support,Associate,109,25.3,50.2,3,73.8,0
+EMP-0100,Operations,Specialist,89,35.6,44.6,2,68.4,1
+EMP-0101,Operations,Specialist,8,17.4,42.5,0,57.3,1
+EMP-0102,Sales,Associate,41,0.0,49.6,2,72.7,0
+EMP-0103,Operations,Specialist,47,33.8,15.5,3,84.0,0
+EMP-0104,Technology,Associate,32,18.0,6.6,0,80.8,0
+EMP-0105,Technology,Specialist,114,14.8,12.1,1,75.1,0
+EMP-0106,Customer Support,Associate,90,11.6,21.6,3,76.4,0
+EMP-0107,Customer Support,Specialist,88,19.4,50.1,3,72.9,0
+EMP-0108,Customer Support,Associate,117,45.2,44.3,1,68.4,0
+EMP-0109,Operations,Specialist,33,26.1,73.1,4,60.8,1
+EMP-0110,Operations,Associate,64,24.4,29.9,4,76.0,0
+EMP-0111,Operations,Specialist,109,12.0,53.3,2,76.9,0
+EMP-0112,Operations,Specialist,77,16.9,31.9,2,84.9,0
+EMP-0113,Customer Support,Manager,108,33.3,52.2,3,65.7,0
+EMP-0114,Technology,Specialist,89,19.3,43.4,5,73.9,0
+EMP-0115,Customer Support,Associate,85,10.2,32.4,4,70.8,0
+EMP-0116,Operations,Associate,119,20.5,56.7,6,61.1,1
+EMP-0117,Sales,Specialist,69,39.5,39.7,4,,0
+EMP-0118,Operations,Specialist,21,30.6,39.0,2,74.5,0
+EMP-0119,Operations,Associate,3,37.8,61.8,6,67.1,0
+EMP-0120,Customer Support,Associate,111,28.2,67.5,5,70.8,1
+EMP-0121,Operations,Associate,89,19.6,47.5,2,72.7,0
+EMP-0122,Sales,Associate,106,37.1,10.6,3,70.3,0
+EMP-0123,Operations,Associate,117,34.9,47.1,1,64.5,0
+EMP-0124,Operations,Associate,59,35.4,85.6,2,,0
+EMP-0125,Technology,Specialist,85,22.1,3.7,1,71.6,0
+EMP-0126,Operations,Specialist,43,35.5,46.8,4,50.9,0
+EMP-0127,Customer Support,Manager,96,36.0,25.0,1,,0
+EMP-0128,Technology,Associate,141,14.3,44.3,3,83.6,0
+EMP-0129,Operations,Associate,43,30.0,42.7,2,96.7,0
+EMP-0130,Operations,Specialist,23,28.3,56.5,3,65.9,0
+EMP-0131,Operations,Specialist,85,18.5,76.3,5,64.0,0
+EMP-0132,Sales,Associate,27,22.5,39.7,1,85.9,0
+EMP-0133,Customer Support,Associate,132,20.9,54.5,4,64.0,0
+EMP-0134,Customer Support,Specialist,107,26.2,40.9,4,73.5,0
+EMP-0135,Operations,Associate,102,8.9,29.2,1,73.7,0
+EMP-0136,Customer Support,Associate,57,28.1,63.0,2,63.2,0
+EMP-0137,Sales,Specialist,112,15.6,28.6,2,85.7,0
+EMP-0138,Customer Support,Specialist,105,9.2,30.5,2,79.2,0
+EMP-0139,Sales,Specialist,68,28.6,48.8,2,79.4,0
+EMP-0140,Sales,Manager,29,21.0,0.0,1,74.3,1
+EMP-0141,Operations,Specialist,79,25.0,51.2,2,65.7,0
+EMP-0142,Operations,Associate,35,22.5,70.8,8,78.3,0
+EMP-0143,Sales,Associate,30,30.0,31.2,4,72.4,0
+EMP-0144,Operations,Manager,8,37.1,47.2,3,87.1,1
+EMP-0145,Customer Support,Associate,93,28.5,71.2,5,60.1,0
+EMP-0146,Sales,Specialist,57,18.7,27.0,3,96.9,0
+EMP-0147,Customer Support,Associate,73,18.2,0.0,1,80.4,0
+EMP-0148,Operations,Associate,142,17.9,19.2,2,74.9,0
+EMP-0149,Sales,Associate,122,26.1,31.8,3,72.3,0
+EMP-0150,Sales,Associate,143,23.0,17.0,1,67.6,0
+EMP-0151,Operations,Manager,35,15.1,35.6,2,69.8,1
+EMP-0152,Operations,Specialist,120,15.6,39.6,1,72.9,0
+EMP-0153,Customer Support,Manager,86,28.5,66.3,3,65.9,0
+EMP-0154,Sales,Specialist,5,20.6,25.0,2,73.7,0
+EMP-0155,Operations,Associate,137,7.1,81.3,5,75.0,0
+EMP-0156,Operations,Specialist,67,15.6,33.3,2,77.2,0
+EMP-0157,Operations,Associate,8,28.3,46.9,2,65.9,0
+EMP-0158,Operations,Specialist,54,18.4,50.9,4,77.6,0
+EMP-0159,Customer Support,Associate,142,14.3,49.1,5,80.3,0
+EMP-0160,Customer Support,Specialist,15,25.7,67.3,9,66.7,0
+EMP-0161,Sales,Associate,19,30.5,30.1,0,85.3,0
+EMP-0162,Technology,Associate,123,14.9,37.7,2,84.4,0
+EMP-0163,Sales,Associate,10,17.5,34.7,2,69.8,0
+EMP-0164,Operations,Associate,118,42.5,50.8,1,65.3,0
+EMP-0165,Sales,Associate,24,26.8,41.0,8,83.5,0
+EMP-0166,Operations,Associate,45,18.4,48.4,4,67.3,0
+EMP-0167,Operations,Associate,55,23.2,61.2,1,68.9,0
+EMP-0168,Operations,Associate,108,39.0,29.0,2,73.1,0
+EMP-0169,Customer Support,Manager,72,37.1,63.7,4,84.2,1
+EMP-0170,Sales,Associate,78,15.1,33.9,3,69.9,0
+EMP-0171,Sales,Associate,89,29.0,34.4,2,62.1,0
+EMP-0172,Customer Support,Manager,129,24.0,44.8,4,65.2,0
+EMP-0173,Customer Support,Specialist,86,25.7,48.9,1,89.7,0
+EMP-0174,Operations,Associate,38,41.7,51.2,6,66.9,1
+EMP-0175,Operations,Manager,144,42.3,38.0,4,87.2,0
+EMP-0176,Customer Support,Specialist,18,25.8,47.2,2,90.1,0
+EMP-0177,Operations,Associate,134,32.5,51.0,4,70.4,0
+EMP-0178,Technology,Manager,17,11.2,37.8,0,83.7,1
+EMP-0179,Technology,Associate,71,27.2,49.8,5,67.2,0
+EMP-0180,Sales,Associate,106,30.2,37.4,1,78.7,0
+EMP-0181,Technology,Associate,22,23.8,0.7,0,,0
+EMP-0182,Operations,Specialist,31,9.0,20.5,3,66.9,0
+EMP-0183,Sales,Manager,38,25.1,54.6,4,71.1,0
+EMP-0184,Operations,Associate,93,44.7,39.1,4,78.2,0
+EMP-0185,Operations,Manager,10,37.4,38.6,2,86.7,0
+EMP-0186,Sales,Associate,119,31.5,24.5,4,79.3,0
+EMP-0187,Operations,Manager,16,58.7,47.2,3,76.5,0
+EMP-0188,Operations,Manager,105,13.0,60.5,3,76.2,0
+EMP-0189,Sales,Specialist,54,24.4,42.6,3,71.5,0
+EMP-0190,Operations,Manager,21,14.8,41.9,5,56.4,0
+EMP-0191,Operations,Specialist,31,30.5,56.9,3,83.4,0
+EMP-0192,Technology,Associate,80,32.3,46.8,1,77.1,0
+EMP-0193,Customer Support,Associate,111,24.1,53.0,3,82.3,0
+EMP-0194,Sales,Associate,100,22.3,23.4,2,83.6,0
+EMP-0195,Customer Support,Associate,94,22.2,66.6,2,71.1,1
+EMP-0196,Sales,Associate,112,22.3,31.6,3,82.0,1
+EMP-0197,Technology,Associate,103,29.2,52.8,4,69.3,0
+EMP-0198,Operations,Specialist,38,20.4,38.8,3,71.2,0
+EMP-0199,Operations,Associate,94,30.7,58.6,6,69.3,0
+EMP-0200,Operations,Manager,121,22.7,42.5,3,70.3,0
+EMP-0201,Operations,Associate,111,31.6,51.7,2,66.0,0
+EMP-0202,Customer Support,Associate,5,32.9,33.0,2,80.1,1
+EMP-0203,Sales,Associate,59,38.8,42.6,3,80.2,0
+EMP-0204,Operations,Associate,14,27.7,34.6,2,74.8,0
+EMP-0205,Customer Support,Associate,49,24.3,48.0,2,82.8,1
+EMP-0206,Operations,Associate,28,17.7,43.4,3,60.5,1
+EMP-0207,Sales,Associate,45,15.8,37.3,4,74.6,0
+EMP-0208,Operations,Associate,78,37.6,70.2,5,73.2,0
+EMP-0209,Technology,Associate,51,36.2,60.9,3,74.7,0
+EMP-0210,Operations,Specialist,107,25.4,55.7,5,86.0,0
+EMP-0211,Operations,Associate,70,32.8,46.7,1,85.9,0
+EMP-0212,Customer Support,Specialist,92,23.5,33.6,1,81.2,0
+EMP-0213,Sales,Associate,99,7.0,29.8,1,78.8,0
+EMP-0214,Customer Support,Manager,105,26.4,57.4,4,69.5,0
+EMP-0215,Technology,Associate,138,1.3,32.8,4,71.8,0
+EMP-0216,Operations,Associate,39,1.0,49.1,0,89.2,0
+EMP-0217,Customer Support,Manager,28,20.0,40.2,2,70.0,0
+EMP-0218,Sales,Manager,122,12.3,54.7,4,56.1,0
+EMP-0219,Operations,Manager,80,21.9,33.2,4,74.1,0
+EMP-0220,Technology,Associate,53,20.7,44.8,2,84.2,0
+EMP-0221,Technology,Associate,138,17.1,51.8,4,83.0,0
+EMP-0222,Sales,Associate,78,19.0,38.4,1,78.6,0
+EMP-0223,Sales,Specialist,90,24.2,12.7,2,75.8,0
+EMP-0224,Technology,Associate,116,38.8,31.2,2,82.7,0
+EMP-0225,Sales,Manager,138,21.3,38.8,3,70.1,0
+EMP-0226,Customer Support,Specialist,140,20.6,56.9,3,87.8,0
+EMP-0227,Operations,Manager,49,26.6,44.3,5,56.5,0
+EMP-0228,Sales,Associate,21,13.6,43.0,1,75.8,0
+EMP-0229,Operations,Associate,42,14.2,44.1,4,79.7,0
+EMP-0230,Customer Support,Associate,78,31.2,30.5,4,82.4,0
+EMP-0231,Sales,Manager,50,36.0,40.9,2,57.0,0
+EMP-0232,Operations,Specialist,23,29.7,55.3,4,74.5,0
+EMP-0233,Sales,Specialist,22,17.7,36.3,3,93.6,0
+EMP-0234,Customer Support,Specialist,15,30.8,52.5,4,59.4,1
+EMP-0235,Customer Support,Specialist,104,19.1,53.3,3,,1
+EMP-0236,Customer Support,Associate,11,23.1,48.3,2,70.8,0
+EMP-0237,Technology,Manager,67,13.8,39.7,1,84.1,0
+EMP-0238,Sales,Associate,6,30.6,23.2,1,78.8,1
+EMP-0239,Operations,Specialist,28,11.2,66.1,4,64.8,0
+EMP-0240,Operations,Manager,24,14.6,47.4,4,78.4,1
+EMP-0241,Operations,Manager,101,23.2,49.9,0,67.3,0
+EMP-0242,Sales,Specialist,59,19.1,42.1,3,71.7,0
+EMP-0243,Sales,Associate,28,43.1,51.5,2,67.6,0
+EMP-0244,Technology,Associate,68,9.6,27.5,4,54.2,0
+EMP-0245,Operations,Manager,56,21.0,50.9,2,75.9,0
+EMP-0246,Technology,Associate,80,33.8,24.7,3,84.6,0
+EMP-0247,Customer Support,Specialist,35,19.5,81.0,4,61.1,1
+EMP-0248,Operations,Associate,121,23.9,48.9,3,71.3,0
+EMP-0249,Customer Support,Specialist,128,34.3,56.3,8,59.7,0
+EMP-0250,Operations,Associate,135,30.0,38.5,1,,0
+EMP-0251,Operations,Associate,82,21.0,71.7,3,57.4,1
+EMP-0252,Customer Support,Associate,59,0.0,40.2,1,78.8,0
+EMP-0253,Sales,Manager,109,33.0,18.6,3,,0
+EMP-0254,Technology,Associate,47,17.7,65.4,1,60.9,0
+EMP-0255,Operations,Specialist,52,30.5,48.4,4,,0
+EMP-0256,Sales,Associate,31,16.6,8.9,3,76.3,0
+EMP-0257,Operations,Manager,48,6.2,25.6,3,67.1,0
+EMP-0258,Operations,Associate,18,14.7,43.8,3,84.2,0
+EMP-0259,Operations,Associate,117,15.9,57.8,5,70.5,0
+EMP-0260,Customer Support,Associate,59,19.7,44.4,3,71.4,0
+EMP-0261,Operations,Associate,3,27.8,55.2,1,61.8,0
+EMP-0262,Customer Support,Associate,106,16.0,41.4,2,68.8,1
+EMP-0263,Operations,Associate,72,10.3,53.5,5,,0
+EMP-0264,Operations,Specialist,119,18.0,41.1,3,68.2,0
+EMP-0265,Operations,Specialist,100,26.6,53.5,1,67.0,0
+EMP-0266,Operations,Specialist,53,34.3,44.9,2,83.3,0
+EMP-0267,Customer Support,Associate,94,5.6,39.6,3,75.3,0
+EMP-0268,Customer Support,Specialist,113,22.5,49.0,8,76.3,0
+EMP-0269,Technology,Manager,4,33.7,58.0,0,76.3,0
+EMP-0270,Customer Support,Specialist,33,10.7,41.7,4,51.9,0
+EMP-0271,Operations,Associate,84,43.2,52.6,6,,0
+EMP-0272,Sales,Specialist,42,18.4,63.7,4,,0
+EMP-0273,Customer Support,Associate,38,19.9,45.4,2,75.8,0
+EMP-0274,Customer Support,Specialist,85,27.2,42.9,0,82.2,0
+EMP-0275,Customer Support,Specialist,126,30.8,57.1,2,60.3,0
+EMP-0276,Sales,Specialist,7,20.3,38.4,1,77.9,0
+EMP-0277,Sales,Specialist,101,27.5,23.6,3,68.0,0
+EMP-0278,Operations,Associate,75,23.9,36.2,4,77.2,0
+EMP-0279,Operations,Specialist,59,19.6,62.8,5,63.6,0
+EMP-0280,Customer Support,Associate,104,42.5,40.0,2,65.9,0
+EMP-0281,Operations,Associate,126,34.4,36.1,6,60.7,0
+EMP-0282,Technology,Specialist,29,25.6,53.6,2,,1
+EMP-0283,Customer Support,Specialist,38,12.0,32.2,2,,0
+EMP-0284,Technology,Associate,114,8.3,18.8,3,70.0,0
+EMP-0285,Operations,Associate,141,29.6,50.4,3,54.7,1
+EMP-0286,Technology,Manager,60,11.9,30.1,2,83.1,0
+EMP-0287,Customer Support,Specialist,111,24.9,32.9,3,80.4,0
+EMP-0288,Operations,Associate,96,37.8,64.5,6,79.2,0
+EMP-0289,Technology,Associate,20,12.2,10.2,2,72.1,0
+EMP-0290,Operations,Specialist,118,14.2,58.3,6,58.8,0
+EMP-0291,Operations,Manager,136,37.2,44.2,6,77.1,0
+EMP-0292,Operations,Specialist,67,16.1,8.6,0,81.5,0
+EMP-0293,Operations,Specialist,132,28.4,58.3,2,58.5,0
+EMP-0294,Operations,Associate,107,38.7,67.8,7,54.0,0
+EMP-0295,Sales,Associate,61,36.8,30.8,4,89.9,0
+EMP-0296,Customer Support,Manager,17,35.7,38.4,3,77.3,0
+EMP-0297,Operations,Associate,54,35.7,50.6,5,66.4,0
+EMP-0298,Sales,Associate,30,29.9,44.4,5,56.0,1
+EMP-0299,Sales,Specialist,15,35.2,23.9,1,86.2,0
+EMP-0300,Operations,Associate,98,33.5,73.3,3,52.3,0
+EMP-0301,Sales,Specialist,139,18.7,45.6,4,76.5,0
+EMP-0302,Technology,Associate,34,1.1,30.8,4,73.3,0
+EMP-0303,Customer Support,Manager,107,35.3,40.5,2,84.3,0
+EMP-0304,Customer Support,Associate,77,34.5,48.5,6,68.2,0
+EMP-0305,Sales,Specialist,117,23.5,54.3,3,78.5,1
+EMP-0306,Sales,Specialist,114,18.7,16.3,3,71.3,0
+EMP-0307,Sales,Associate,50,8.0,36.9,1,77.6,0
+EMP-0308,Operations,Specialist,48,49.6,49.2,3,61.8,0
+EMP-0309,Customer Support,Specialist,26,31.1,44.9,7,76.8,0
+EMP-0310,Customer Support,Associate,32,7.5,46.6,2,67.1,1
+EMP-0311,Sales,Associate,88,34.8,36.2,6,70.7,0
+EMP-0312,Customer Support,Associate,81,5.8,48.3,3,78.7,0
+EMP-0313,Operations,Associate,141,31.3,18.2,1,71.5,0
+EMP-0314,Sales,Specialist,96,17.7,56.8,3,63.4,0
+EMP-0315,Operations,Specialist,16,44.1,48.0,0,78.7,0
+EMP-0316,Sales,Associate,61,24.1,56.7,3,56.4,0
+EMP-0317,Operations,Associate,55,34.2,44.0,3,78.3,0
+EMP-0318,Customer Support,Manager,124,20.5,59.0,4,68.3,0
+EMP-0319,Customer Support,Specialist,59,25.6,11.0,3,79.2,0
+EMP-0320,Technology,Manager,25,12.4,54.3,0,76.1,1
+EMP-0321,Sales,Manager,56,25.8,52.7,3,66.0,0
+EMP-0322,Operations,Associate,17,47.9,37.6,4,77.7,0
+EMP-0323,Sales,Associate,30,22.8,33.0,2,74.6,0
+EMP-0324,Customer Support,Manager,48,35.5,35.4,3,64.9,0
+EMP-0325,Operations,Specialist,105,20.3,50.5,3,59.3,0
+EMP-0326,Operations,Associate,40,26.0,14.7,2,75.2,0
+EMP-0327,Operations,Associate,84,17.9,19.9,2,70.3,0
+EMP-0328,Operations,Specialist,76,8.5,49.4,4,79.1,1
+EMP-0329,Operations,Associate,113,11.2,39.5,2,69.7,0
+EMP-0330,Technology,Manager,82,31.5,65.8,4,74.5,0
+EMP-0331,Operations,Associate,73,37.6,53.0,2,66.5,0
+EMP-0332,Customer Support,Associate,119,25.1,53.4,2,73.3,0
+EMP-0333,Operations,Specialist,25,17.8,45.6,3,70.9,0
+EMP-0334,Customer Support,Specialist,55,27.3,50.1,3,86.8,0
+EMP-0335,Operations,Specialist,76,22.8,37.9,1,60.0,0
+EMP-0336,Technology,Associate,125,32.1,62.1,0,79.6,0
+EMP-0337,Operations,Associate,118,37.5,37.9,3,72.6,0
+EMP-0338,Customer Support,Associate,84,13.4,47.2,5,72.2,0
+EMP-0339,Customer Support,Associate,106,32.1,54.0,2,71.1,0
+EMP-0340,Technology,Associate,17,11.6,53.3,3,79.2,0
+EMP-0341,Operations,Specialist,3,4.3,39.1,2,70.4,0
+EMP-0342,Customer Support,Manager,9,35.8,48.2,5,73.9,1
+EMP-0343,Customer Support,Associate,70,18.6,50.5,3,63.0,0
+EMP-0344,Customer Support,Associate,116,41.1,45.9,3,75.7,0
+EMP-0345,Operations,Specialist,115,4.6,32.2,1,76.7,0
+EMP-0346,Operations,Associate,117,17.9,47.7,5,71.1,0
+EMP-0347,Customer Support,Associate,71,18.2,42.3,3,,0
+EMP-0348,Customer Support,Associate,127,27.2,38.1,3,76.1,1
+EMP-0349,Operations,Specialist,23,31.0,64.3,2,64.5,1
+EMP-0350,Technology,Associate,110,34.7,8.7,2,72.5,0
+EMP-0351,Sales,Specialist,104,48.2,50.9,3,75.0,0
+EMP-0352,Customer Support,Specialist,60,21.5,37.8,1,71.6,0
+EMP-0353,Operations,Associate,110,22.3,53.6,5,40.1,1
+EMP-0354,Technology,Associate,121,34.3,26.9,2,71.1,1
+EMP-0355,Customer Support,Specialist,134,29.9,33.1,3,68.2,0
+EMP-0356,Customer Support,Associate,126,18.9,37.6,2,73.0,0
+EMP-0357,Operations,Associate,38,19.1,45.7,6,56.1,0
+EMP-0358,Operations,Specialist,97,5.4,55.6,2,64.0,0
+EMP-0359,Sales,Specialist,28,16.8,23.8,2,,0
+EMP-0360,Operations,Specialist,12,30.1,57.2,1,62.5,0
+EMP-0361,Sales,Manager,55,24.5,52.7,5,68.4,0
+EMP-0362,Technology,Associate,57,39.3,16.8,2,77.2,0
+EMP-0363,Customer Support,Associate,144,23.0,43.7,2,85.6,0
+EMP-0364,Sales,Manager,55,46.1,11.6,1,81.7,0
+EMP-0365,Sales,Associate,6,31.7,41.1,6,82.7,0
+EMP-0366,Sales,Specialist,63,12.1,44.7,5,70.5,0
+EMP-0367,Sales,Associate,125,8.6,53.9,3,79.0,1
+EMP-0368,Operations,Associate,103,10.1,45.1,3,58.8,0
+EMP-0369,Customer Support,Associate,50,32.0,47.1,2,67.6,1
+EMP-0370,Sales,Associate,43,18.5,44.1,2,65.5,0
+EMP-0371,Sales,Manager,133,21.0,27.0,5,73.6,0
+EMP-0372,Customer Support,Specialist,102,27.1,27.6,2,,0
+EMP-0373,Customer Support,Associate,76,18.8,23.6,3,77.9,0
+EMP-0374,Operations,Specialist,65,22.8,42.9,1,73.4,0
+EMP-0375,Customer Support,Specialist,130,41.2,38.3,3,58.7,0
+EMP-0376,Technology,Associate,9,24.7,49.9,2,65.8,1
+EMP-0377,Technology,Manager,81,40.0,38.9,0,75.0,0
+EMP-0378,Sales,Specialist,54,34.5,40.7,3,82.9,1
+EMP-0379,Technology,Specialist,41,32.8,22.9,5,85.0,0
+EMP-0380,Customer Support,Specialist,136,11.3,45.9,6,72.0,0
+EMP-0381,Operations,Associate,56,35.5,51.3,1,68.5,0
+EMP-0382,Sales,Specialist,67,42.7,0.0,2,89.7,0
+EMP-0383,Technology,Associate,111,32.3,29.5,2,68.0,0
+EMP-0384,Operations,Associate,140,21.3,37.5,1,79.4,0
+EMP-0385,Operations,Specialist,20,23.2,48.7,3,67.2,0
+EMP-0386,Sales,Specialist,25,22.8,45.9,2,,0
+EMP-0387,Technology,Associate,132,19.8,64.9,4,53.8,0
+EMP-0388,Customer Support,Associate,74,7.0,50.6,2,78.3,0
+EMP-0389,Sales,Specialist,105,25.3,45.9,3,73.2,0
+EMP-0390,Sales,Associate,70,21.8,39.7,1,80.7,0
+EMP-0391,Operations,Associate,13,39.0,61.7,5,56.9,0
+EMP-0392,Operations,Associate,129,32.4,20.3,5,72.4,0
+EMP-0393,Sales,Specialist,36,38.0,55.0,7,72.2,0
+EMP-0394,Operations,Manager,134,26.7,59.3,8,79.4,0
+EMP-0395,Sales,Specialist,5,40.9,35.5,0,88.1,0
+EMP-0396,Operations,Specialist,73,11.2,22.6,0,78.2,0
+EMP-0397,Sales,Specialist,139,19.5,7.1,2,68.6,0
+EMP-0398,Customer Support,Specialist,110,27.5,47.8,2,83.7,0
+EMP-0399,Customer Support,Associate,54,11.0,53.9,5,56.4,1
+EMP-0400,Operations,Specialist,26,38.7,51.3,2,77.8,0
+EMP-0401,Sales,Specialist,128,25.4,48.7,4,73.1,1
+EMP-0402,Technology,Associate,83,13.2,47.5,5,65.3,1
+EMP-0403,Technology,Associate,143,29.9,23.4,1,82.8,0
+EMP-0404,Technology,Specialist,114,32.7,35.6,2,86.7,0
+EMP-0405,Operations,Associate,25,35.4,46.5,3,77.1,0
+EMP-0406,Sales,Associate,87,0.0,12.6,1,74.5,0
+EMP-0407,Operations,Specialist,126,11.9,59.1,4,73.7,0
+EMP-0408,Sales,Associate,100,23.9,31.5,2,77.8,1
+EMP-0409,Sales,Specialist,73,26.6,33.4,5,53.7,1
+EMP-0410,Customer Support,Specialist,21,13.7,33.0,1,76.2,0
+EMP-0411,Sales,Specialist,98,29.0,38.9,2,71.6,0
+EMP-0412,Operations,Associate,83,27.8,69.8,4,82.3,0
+EMP-0413,Operations,Associate,38,25.2,36.9,4,77.4,0
+EMP-0414,Sales,Specialist,117,32.9,32.2,5,74.1,0
+EMP-0415,Customer Support,Specialist,51,23.1,40.1,5,72.3,0
+EMP-0416,Sales,Associate,90,28.8,29.5,2,72.5,0
+EMP-0417,Technology,Associate,86,11.3,44.7,2,71.1,0
+EMP-0418,Operations,Specialist,92,24.1,42.3,2,71.8,0
+EMP-0419,Customer Support,Associate,33,22.2,45.1,8,61.1,0
+EMP-0420,Sales,Associate,31,12.7,40.2,3,74.9,0
+EMP-0421,Sales,Specialist,37,15.3,59.3,0,70.7,0
+EMP-0422,Technology,Associate,59,35.5,28.0,3,76.3,0
+EMP-0423,Operations,Associate,92,17.7,49.9,4,93.5,0
+EMP-0424,Customer Support,Specialist,80,13.4,40.8,4,76.8,0
+EMP-0425,Operations,Specialist,4,39.4,55.7,7,72.1,0
+EMP-0426,Customer Support,Specialist,43,25.3,21.2,3,72.6,0
+EMP-0427,Customer Support,Specialist,4,38.4,41.9,2,82.2,1
+EMP-0428,Sales,Specialist,15,38.3,32.4,3,86.1,0
+EMP-0429,Sales,Associate,129,28.4,29.9,4,83.4,0
+EMP-0430,Sales,Associate,7,27.1,24.9,2,83.1,0
+EMP-0431,Sales,Specialist,118,22.9,44.0,4,69.1,0
+EMP-0432,Sales,Specialist,40,14.0,40.8,1,75.9,0
+EMP-0433,Customer Support,Associate,63,20.1,45.2,4,67.0,0
+EMP-0434,Customer Support,Specialist,144,20.2,37.5,1,78.3,0
+EMP-0435,Operations,Associate,11,28.4,33.4,7,71.7,0
+EMP-0436,Sales,Specialist,52,0.0,23.5,0,71.8,0
+EMP-0437,Technology,Associate,80,32.5,6.6,1,72.9,0
+EMP-0438,Customer Support,Specialist,100,10.6,31.4,3,81.1,0
+EMP-0439,Technology,Specialist,3,26.3,29.0,3,79.7,0
+EMP-0440,Operations,Specialist,50,22.9,65.5,5,64.5,1
+EMP-0441,Operations,Associate,29,30.8,59.1,3,65.1,0
+EMP-0442,Technology,Associate,108,24.8,12.0,4,75.6,0
+EMP-0443,Technology,Specialist,34,26.6,15.5,4,81.9,0
+EMP-0444,Customer Support,Specialist,64,28.8,54.1,3,69.0,0
+EMP-0445,Operations,Associate,47,35.3,62.0,7,51.9,0
+EMP-0446,Customer Support,Specialist,89,22.5,57.7,3,53.1,0
+EMP-0447,Operations,Specialist,52,38.3,13.5,3,77.2,0
+EMP-0448,Technology,Associate,43,21.5,35.4,3,73.5,0
+EMP-0449,Technology,Associate,34,35.3,45.9,2,73.0,1
+EMP-0450,Operations,Specialist,86,35.1,41.8,0,74.1,0
+EMP-0451,Sales,Specialist,75,32.7,29.3,3,85.4,0
+EMP-0452,Operations,Associate,126,15.2,36.8,6,77.2,0
+EMP-0453,Technology,Associate,90,36.5,52.3,4,74.5,0
+EMP-0454,Sales,Associate,76,2.7,41.4,6,74.9,0
+EMP-0455,Operations,Associate,90,24.4,52.3,4,64.4,0
+EMP-0456,Operations,Manager,118,25.7,71.8,4,77.1,1
+EMP-0457,Customer Support,Manager,72,22.3,43.7,3,73.6,0
+EMP-0458,Technology,Specialist,86,22.7,60.6,2,74.3,0
+EMP-0459,Sales,Associate,11,23.5,44.2,5,60.9,0
+EMP-0460,Customer Support,Manager,116,37.0,33.5,4,74.5,0
+EMP-0461,Operations,Manager,24,30.1,53.4,5,84.3,0
+EMP-0462,Operations,Associate,83,38.8,29.8,1,87.6,0
+EMP-0463,Customer Support,Associate,104,30.0,74.0,4,63.2,0
+EMP-0464,Customer Support,Associate,110,18.5,57.8,2,69.4,0
+EMP-0465,Operations,Associate,66,9.6,44.7,3,64.3,0
+EMP-0466,Operations,Associate,7,33.8,50.4,5,75.5,0
+EMP-0467,Customer Support,Associate,121,0.4,42.1,1,74.7,1
+EMP-0468,Operations,Associate,28,18.2,52.0,2,54.0,0
+EMP-0469,Sales,Manager,84,26.6,8.4,1,74.4,0
+EMP-0470,Operations,Manager,66,27.0,70.0,4,83.1,0
+EMP-0471,Sales,Associate,31,34.0,21.0,3,74.2,0
+EMP-0472,Technology,Associate,144,23.1,43.5,1,74.2,0
+EMP-0473,Technology,Associate,84,17.8,48.3,2,79.4,0
+EMP-0474,Customer Support,Specialist,102,16.3,45.6,1,68.0,0
+EMP-0475,Operations,Associate,74,22.8,69.6,6,65.0,0
+EMP-0476,Sales,Associate,7,0.0,78.8,5,59.6,0
+EMP-0477,Technology,Associate,128,5.4,35.7,4,77.6,0
+EMP-0478,Operations,Associate,9,35.1,58.8,1,67.1,1
+EMP-0479,Operations,Associate,11,21.3,44.2,6,70.0,1
+EMP-0480,Operations,Specialist,58,32.8,53.1,5,80.2,0
+EMP-0481,Sales,Associate,98,29.6,86.3,4,67.2,0
+EMP-0482,Technology,Associate,128,41.8,30.8,3,83.6,0
+EMP-0483,Sales,Specialist,102,1.5,40.9,2,69.0,1
+EMP-0484,Sales,Associate,68,14.2,12.8,1,79.3,0
+EMP-0485,Technology,Specialist,36,30.3,60.8,2,68.2,0
+EMP-0486,Sales,Manager,69,19.8,51.3,0,62.8,1
+EMP-0487,Customer Support,Specialist,117,32.9,59.2,3,59.8,0
+EMP-0488,Customer Support,Specialist,134,25.9,31.7,2,74.6,0
+EMP-0489,Operations,Associate,124,15.4,58.2,2,68.4,0
+EMP-0490,Operations,Associate,80,27.2,39.1,7,84.6,0
+EMP-0491,Sales,Associate,101,10.3,24.8,2,73.2,1
+EMP-0492,Customer Support,Associate,110,20.6,28.6,8,91.7,0
+EMP-0493,Operations,Specialist,73,11.2,59.6,4,63.1,0
+EMP-0494,Operations,Specialist,106,20.0,30.2,4,85.7,0
+EMP-0495,Operations,Specialist,119,11.7,54.0,4,55.8,1
+EMP-0496,Sales,Associate,15,19.0,40.3,3,67.8,0
+EMP-0497,Operations,Specialist,30,9.9,55.8,3,61.2,0
+EMP-0498,Sales,Associate,76,16.2,62.4,2,63.7,0
+EMP-0499,Operations,Specialist,141,21.2,39.4,2,67.6,0
+EMP-0500,Operations,Manager,78,19.8,51.3,6,75.2,0
+EMP-0501,Operations,Associate,75,26.9,54.0,7,62.8,0
+EMP-0502,Operations,Associate,45,23.9,29.8,3,81.5,0
+EMP-0503,Customer Support,Associate,12,10.8,45.1,2,59.0,0
+EMP-0504,Customer Support,Associate,78,17.7,16.2,1,88.5,0
+EMP-0505,Operations,Associate,56,27.7,32.5,2,57.4,0
+EMP-0506,Customer Support,Associate,90,31.8,44.7,6,64.2,0
+EMP-0507,Operations,Associate,9,22.7,66.9,1,63.6,1
+EMP-0508,Sales,Specialist,66,14.4,70.8,4,71.0,1
+EMP-0509,Operations,Specialist,117,30.5,52.7,3,79.0,0
+EMP-0510,Technology,Manager,122,11.5,56.3,6,61.3,1
+EMP-0511,Technology,Associate,138,36.2,12.6,1,79.0,0
+EMP-0512,Sales,Manager,88,24.2,37.6,4,62.3,0
+EMP-0513,Sales,Associate,79,17.9,65.8,4,56.2,1
+EMP-0514,Operations,Associate,3,26.3,60.9,2,69.7,1
+EMP-0515,Technology,Specialist,13,50.9,19.7,1,81.3,0
+EMP-0516,Technology,Associate,13,20.2,24.1,6,80.7,1
+EMP-0517,Operations,Specialist,89,19.2,81.6,5,78.6,0
+EMP-0518,Sales,Associate,38,24.0,69.8,7,80.4,0
+EMP-0519,Operations,Manager,18,31.8,19.8,1,71.1,1
+EMP-0520,Operations,Specialist,68,21.7,43.4,4,77.0,0
+EMP-0521,Operations,Associate,93,21.9,60.4,1,54.5,0
+EMP-0522,Technology,Specialist,89,19.4,32.8,2,74.5,0
+EMP-0523,Operations,Associate,33,18.8,44.5,2,69.0,0
+EMP-0524,Customer Support,Specialist,56,41.9,27.2,3,77.3,0
+EMP-0525,Operations,Specialist,41,17.4,64.6,5,56.5,1
+EMP-0526,Operations,Specialist,70,22.0,72.6,2,58.6,0
+EMP-0527,Technology,Manager,4,23.4,50.8,2,75.1,0
+EMP-0528,Operations,Specialist,75,0.0,37.1,2,83.9,0
+EMP-0529,Customer Support,Associate,99,30.6,53.2,4,69.5,0
+EMP-0530,Technology,Associate,80,9.0,31.5,0,76.6,1
+EMP-0531,Sales,Associate,83,33.9,29.0,5,,0
+EMP-0532,Technology,Associate,123,40.8,49.1,2,62.2,0
+EMP-0533,Operations,Specialist,35,27.2,57.1,1,78.9,0
+EMP-0534,Customer Support,Specialist,105,13.6,45.6,1,56.7,0
+EMP-0535,Technology,Specialist,144,21.0,40.8,4,71.7,0
+EMP-0536,Operations,Specialist,12,21.5,26.0,4,72.6,0
+EMP-0537,Operations,Specialist,77,33.2,48.4,2,57.7,0
+EMP-0538,Customer Support,Associate,13,21.1,24.7,3,75.7,0
+EMP-0539,Operations,Manager,10,31.7,60.7,2,70.7,0
+EMP-0540,Operations,Specialist,113,44.2,30.2,1,84.1,0
+EMP-0541,Operations,Specialist,14,31.6,53.4,2,60.9,0
+EMP-0542,Operations,Associate,55,29.3,54.2,1,81.1,0
+EMP-0543,Customer Support,Manager,45,27.8,34.1,4,68.5,0
+EMP-0544,Operations,Associate,33,20.6,41.9,2,66.3,0
+EMP-0545,Operations,Specialist,118,32.4,55.0,4,79.3,0
+EMP-0546,Technology,Associate,144,18.9,7.6,1,82.3,0
+EMP-0547,Sales,Associate,95,34.1,55.9,2,85.5,0
+EMP-0548,Operations,Specialist,95,32.1,48.0,2,89.9,0
+EMP-0549,Operations,Associate,128,18.1,53.2,9,72.5,0
+EMP-0550,Operations,Associate,45,17.8,69.1,6,76.9,0
+EMP-0551,Technology,Specialist,20,16.4,18.9,1,64.6,0
+EMP-0552,Sales,Associate,44,16.0,53.8,2,66.7,0
+EMP-0553,Customer Support,Associate,56,9.6,34.4,3,81.9,0
+EMP-0554,Sales,Associate,16,20.7,43.0,3,76.6,0
+EMP-0555,Operations,Associate,118,19.3,34.4,3,69.7,0
+EMP-0556,Operations,Specialist,68,33.4,60.9,3,72.1,0
+EMP-0557,Operations,Specialist,90,18.8,43.4,4,64.9,1
+EMP-0558,Technology,Specialist,107,22.9,32.7,3,73.7,1
+EMP-0559,Technology,Associate,100,20.7,38.6,1,77.1,0
+EMP-0560,Operations,Associate,20,37.5,29.7,2,65.9,0
+EMP-0561,Operations,Manager,141,14.0,63.7,3,69.1,0
+EMP-0562,Operations,Associate,83,12.9,59.4,4,60.8,0
+EMP-0563,Operations,Associate,16,30.8,50.8,3,79.3,0
+EMP-0564,Operations,Associate,24,18.3,31.9,4,68.3,0
+EMP-0565,Operations,Manager,36,26.6,25.7,1,85.0,1
+EMP-0566,Operations,Associate,65,40.6,64.5,2,71.9,0
+EMP-0567,Operations,Specialist,36,14.2,28.4,2,56.9,0
+EMP-0568,Operations,Specialist,105,18.4,44.1,5,60.2,1
+EMP-0569,Sales,Specialist,82,49.5,72.2,7,70.8,0
+EMP-0570,Sales,Specialist,33,30.1,41.4,2,77.8,0
+EMP-0571,Operations,Specialist,69,23.0,31.0,0,64.3,1
+EMP-0572,Operations,Associate,91,26.8,22.4,2,82.7,1
+EMP-0573,Technology,Associate,70,12.8,41.0,4,69.9,0
+EMP-0574,Customer Support,Specialist,124,3.6,35.4,3,62.0,0
+EMP-0575,Sales,Associate,5,11.7,36.3,2,72.7,0
+EMP-0576,Operations,Associate,75,30.3,38.0,4,72.3,0
+EMP-0577,Operations,Associate,103,23.2,43.4,5,75.1,0
+EMP-0578,Customer Support,Manager,47,28.1,36.2,4,78.8,0
+EMP-0579,Operations,Associate,10,27.3,96.0,3,57.0,0
+EMP-0580,Customer Support,Associate,21,17.8,20.8,2,73.5,0
+EMP-0581,Technology,Associate,128,30.2,25.7,2,83.3,0
+EMP-0582,Customer Support,Specialist,115,27.1,49.0,2,82.2,0
+EMP-0583,Operations,Specialist,97,37.9,56.4,3,80.7,0
+EMP-0584,Operations,Specialist,122,19.1,41.0,3,60.7,0
+EMP-0585,Sales,Manager,11,41.6,21.6,2,75.9,0
+EMP-0586,Customer Support,Manager,20,20.5,38.2,3,73.0,0
+EMP-0587,Operations,Associate,62,37.4,31.6,4,59.0,1
+EMP-0588,Sales,Specialist,93,25.5,21.4,1,80.4,0
+EMP-0589,Customer Support,Associate,64,38.8,33.2,1,67.6,0
+EMP-0590,Sales,Associate,24,32.3,63.2,6,76.1,0
+EMP-0591,Technology,Associate,25,17.8,48.6,3,58.1,0
+EMP-0592,Customer Support,Manager,48,26.2,34.5,1,85.2,0
+EMP-0593,Customer Support,Associate,44,30.9,53.6,5,69.4,0
+EMP-0594,Operations,Specialist,13,29.0,41.0,6,83.3,0
+EMP-0595,Sales,Specialist,97,28.0,53.6,4,72.5,0
+EMP-0596,Operations,Specialist,119,19.3,53.1,6,72.1,0
+EMP-0597,Operations,Associate,135,13.6,67.1,4,64.4,1
+EMP-0598,Technology,Associate,88,33.9,56.1,3,75.7,0
+EMP-0599,Operations,Specialist,44,19.9,47.6,3,63.4,0
+EMP-0600,Customer Support,Specialist,82,31.5,40.0,2,73.0,0
+EMP-0601,Operations,Associate,141,27.5,47.8,2,81.8,0
+EMP-0602,Customer Support,Associate,124,19.8,55.3,2,69.4,0
+EMP-0603,Operations,Specialist,79,23.0,54.3,2,64.3,0
+EMP-0604,Sales,Manager,10,27.2,49.8,0,81.3,0
+EMP-0605,Operations,Associate,122,25.9,60.0,1,72.1,1
+EMP-0606,Sales,Associate,137,28.2,32.2,4,67.9,0
+EMP-0607,Operations,Specialist,59,11.1,51.2,0,73.1,0
+EMP-0608,Sales,Associate,53,25.2,48.6,3,73.1,0
+EMP-0609,Operations,Specialist,116,38.5,51.9,1,69.7,0
+EMP-0610,Customer Support,Associate,121,16.2,48.1,3,78.5,0
+EMP-0611,Operations,Associate,31,28.5,66.3,3,77.7,0
+EMP-0612,Sales,Associate,115,36.7,47.5,5,70.4,0
+EMP-0613,Operations,Specialist,106,8.4,68.7,5,62.1,0
+EMP-0614,Operations,Associate,119,20.8,61.0,3,56.7,0
+EMP-0615,Customer Support,Associate,71,6.0,50.8,6,75.8,0
+EMP-0616,Sales,Specialist,110,31.7,75.3,6,68.8,1
+EMP-0617,Sales,Associate,91,11.8,49.8,7,66.6,0
+EMP-0618,Customer Support,Specialist,88,17.2,18.9,2,76.4,0
+EMP-0619,Customer Support,Specialist,91,32.0,50.2,2,69.5,0
+EMP-0620,Technology,Specialist,139,24.0,35.7,5,77.8,0
+EMP-0621,Operations,Specialist,46,18.8,38.8,3,74.4,0
+EMP-0622,Customer Support,Specialist,98,36.0,31.9,2,75.2,0
+EMP-0623,Operations,Specialist,49,18.7,48.4,1,67.6,0
+EMP-0624,Sales,Associate,23,8.8,48.6,6,72.7,0
+EMP-0625,Customer Support,Associate,16,40.4,39.4,0,91.9,0
+EMP-0626,Operations,Associate,10,28.2,44.8,4,,0
+EMP-0627,Operations,Specialist,53,46.8,47.8,2,78.6,0
+EMP-0628,Sales,Associate,21,43.6,58.2,0,76.4,1
+EMP-0629,Sales,Associate,139,19.6,46.3,3,,1
+EMP-0630,Customer Support,Manager,136,22.4,60.5,6,61.8,1
+EMP-0631,Operations,Associate,35,24.1,47.6,4,78.5,0
+EMP-0632,Technology,Associate,20,33.1,56.0,1,84.1,0
+EMP-0633,Operations,Associate,50,30.7,60.6,3,73.9,0
+EMP-0634,Operations,Manager,28,34.8,42.3,1,90.9,0
+EMP-0635,Operations,Associate,118,18.9,25.4,0,76.2,0
+EMP-0636,Operations,Associate,131,30.9,47.1,3,60.5,0
+EMP-0637,Sales,Specialist,49,34.0,50.7,1,71.2,0
+EMP-0638,Sales,Manager,26,26.3,48.4,4,65.4,0
+EMP-0639,Operations,Associate,5,34.5,56.5,4,76.2,1
+EMP-0640,Operations,Associate,18,25.0,54.6,5,68.0,1
+EMP-0641,Operations,Associate,110,4.5,64.6,3,66.7,0
+EMP-0642,Operations,Specialist,10,18.5,59.5,5,67.8,0
+EMP-0643,Operations,Specialist,73,34.6,44.5,2,67.4,1
+EMP-0644,Operations,Manager,105,19.0,36.5,2,73.2,0
+EMP-0645,Sales,Specialist,25,26.4,53.9,6,68.9,0
+EMP-0646,Sales,Manager,14,27.0,54.0,5,77.9,0
+EMP-0647,Technology,Specialist,67,22.3,36.6,2,81.8,0
+EMP-0648,Customer Support,Specialist,49,41.6,25.9,3,,0
+EMP-0649,Sales,Associate,14,30.9,33.2,4,65.6,0
+EMP-0650,Operations,Associate,103,38.9,23.7,3,76.0,0
+EMP-0651,Sales,Associate,8,34.7,52.1,1,73.8,0
+EMP-0652,Operations,Associate,111,5.2,67.4,3,69.0,0
+EMP-0653,Operations,Specialist,126,41.8,35.2,3,67.7,0
+EMP-0654,Sales,Specialist,33,25.2,38.8,4,89.2,0
+EMP-0655,Customer Support,Specialist,97,17.5,50.5,2,66.4,0
+EMP-0656,Sales,Specialist,30,23.8,23.6,2,72.3,0
+EMP-0657,Operations,Associate,102,23.5,67.7,6,69.3,0
+EMP-0658,Customer Support,Manager,15,13.9,56.0,1,67.5,1
+EMP-0659,Sales,Associate,5,28.4,28.7,6,81.9,0
+EMP-0660,Technology,Manager,51,42.5,29.8,1,75.6,0
+EMP-0661,Customer Support,Manager,114,17.6,41.1,1,83.1,0
+EMP-0662,Technology,Associate,46,30.8,35.3,5,66.9,0
+EMP-0663,Technology,Specialist,49,21.8,50.9,7,71.6,0
+EMP-0664,Operations,Associate,12,34.9,58.3,4,68.5,0
+EMP-0665,Operations,Specialist,142,37.6,74.4,1,85.5,1
+EMP-0666,Customer Support,Associate,16,22.3,18.7,1,82.6,0
+EMP-0667,Operations,Associate,143,36.0,64.2,2,70.0,0
+EMP-0668,Customer Support,Specialist,53,32.6,52.1,0,73.4,0
+EMP-0669,Technology,Specialist,27,13.3,26.3,2,64.0,0
+EMP-0670,Operations,Associate,114,29.8,57.5,6,65.8,0
+EMP-0671,Technology,Associate,31,18.2,18.8,2,44.4,0
+EMP-0672,Sales,Specialist,89,22.2,16.6,5,65.7,0
+EMP-0673,Customer Support,Specialist,89,23.1,77.3,0,73.6,0
+EMP-0674,Technology,Specialist,137,23.7,33.6,2,,0
+EMP-0675,Operations,Associate,30,33.7,56.1,3,59.3,0
+EMP-0676,Operations,Manager,119,31.4,31.4,1,,0
+EMP-0677,Customer Support,Specialist,17,23.8,68.2,5,76.3,1
+EMP-0678,Customer Support,Manager,133,18.6,50.0,3,84.2,0
+EMP-0679,Customer Support,Specialist,35,27.6,37.9,5,72.7,0
+EMP-0680,Customer Support,Specialist,19,37.9,19.7,1,85.7,0
+EMP-0681,Operations,Specialist,62,24.4,61.9,0,69.8,0
+EMP-0682,Operations,Associate,136,25.2,1.8,3,71.4,0
+EMP-0683,Sales,Associate,116,12.3,24.6,1,72.0,0
+EMP-0684,Technology,Specialist,91,18.6,49.1,4,71.9,1
+EMP-0685,Sales,Specialist,50,18.0,48.5,2,84.9,0
+EMP-0686,Operations,Associate,21,33.1,68.4,3,73.7,0
+EMP-0687,Operations,Associate,83,24.1,63.3,4,66.6,0
+EMP-0688,Technology,Associate,57,7.7,33.8,3,92.0,0
+EMP-0689,Technology,Manager,11,30.0,37.6,3,85.4,1
+EMP-0690,Sales,Specialist,83,11.1,40.0,3,77.6,0
+EMP-0691,Customer Support,Associate,5,15.7,40.2,5,78.7,0
+EMP-0692,Operations,Associate,47,21.3,42.3,2,66.7,0
+EMP-0693,Sales,Associate,17,23.0,3.1,2,80.0,0
+EMP-0694,Sales,Associate,117,10.2,47.6,2,70.8,0
+EMP-0695,Operations,Associate,68,40.3,52.9,0,78.3,0
+EMP-0696,Sales,Associate,88,26.0,28.9,0,64.0,0
+EMP-0697,Operations,Specialist,78,25.3,45.6,1,74.9,0
+EMP-0698,Technology,Associate,29,58.1,24.1,3,65.6,0
+EMP-0699,Operations,Specialist,94,0.0,65.7,2,68.7,0
+EMP-0700,Technology,Specialist,64,20.4,2.7,3,73.5,0
+EMP-0701,Sales,Associate,6,14.7,20.1,4,61.1,0
+EMP-0702,Operations,Specialist,17,28.0,47.5,3,79.8,0
+EMP-0703,Customer Support,Associate,26,18.5,46.8,3,70.7,0
+EMP-0704,Operations,Specialist,112,27.5,34.1,0,,0
+EMP-0705,Sales,Manager,26,25.6,22.2,5,62.4,0
+EMP-0706,Operations,Specialist,96,24.7,34.7,3,67.2,0
+EMP-0707,Operations,Specialist,131,20.8,52.3,2,84.6,0
+EMP-0708,Operations,Associate,48,16.6,62.3,2,72.1,0
+EMP-0709,Operations,Specialist,144,23.1,47.3,2,83.5,0
+EMP-0710,Technology,Specialist,57,8.6,29.4,1,85.3,0
+EMP-0711,Operations,Associate,79,51.3,47.4,6,75.0,0
+EMP-0712,Sales,Associate,127,27.3,43.6,0,80.2,0
+EMP-0713,Technology,Specialist,19,21.0,47.2,1,73.6,1
+EMP-0714,Technology,Manager,13,47.3,42.6,7,80.7,0
+EMP-0715,Sales,Manager,37,31.2,48.8,1,74.9,0
+EMP-0716,Technology,Specialist,42,21.4,30.7,1,79.2,1
+EMP-0717,Operations,Specialist,140,8.6,66.4,5,58.5,0
+EMP-0718,Technology,Associate,97,23.8,25.8,1,90.4,0
+EMP-0719,Operations,Associate,18,35.2,31.9,2,69.3,0
+EMP-0720,Operations,Associate,71,50.9,46.8,3,71.7,0
