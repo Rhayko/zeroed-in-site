@@ -1,0 +1,289 @@
+product,week_index,week_start,model,selected,actual,forecast
+Bottles,120,2025-04-21,Seasonal naive,False,119,112.0
+Bottles,121,2025-04-28,Seasonal naive,False,115,80.0
+Bottles,122,2025-05-05,Seasonal naive,False,100,81.0
+Bottles,123,2025-05-12,Seasonal naive,False,123,87.0
+Bottles,124,2025-05-19,Seasonal naive,False,98,125.0
+Bottles,125,2025-05-26,Seasonal naive,False,122,94.0
+Bottles,126,2025-06-02,Seasonal naive,False,121,115.0
+Bottles,127,2025-06-09,Seasonal naive,False,128,106.0
+Bottles,128,2025-06-16,Seasonal naive,False,99,123.0
+Bottles,129,2025-06-23,Seasonal naive,False,106,121.0
+Bottles,130,2025-06-30,Seasonal naive,False,123,125.0
+Bottles,131,2025-07-07,Seasonal naive,False,112,96.0
+Bottles,120,2025-04-21,Recent mean,True,119,99.38461538461539
+Bottles,121,2025-04-28,Recent mean,True,115,99.38461538461539
+Bottles,122,2025-05-05,Recent mean,True,100,99.38461538461539
+Bottles,123,2025-05-12,Recent mean,True,123,99.38461538461539
+Bottles,124,2025-05-19,Recent mean,True,98,99.38461538461539
+Bottles,125,2025-05-26,Recent mean,True,122,99.38461538461539
+Bottles,126,2025-06-02,Recent mean,True,121,99.38461538461539
+Bottles,127,2025-06-09,Recent mean,True,128,99.38461538461539
+Bottles,128,2025-06-16,Recent mean,True,99,99.38461538461539
+Bottles,129,2025-06-23,Recent mean,True,106,99.38461538461539
+Bottles,130,2025-06-30,Recent mean,True,123,99.38461538461539
+Bottles,131,2025-07-07,Recent mean,True,112,99.38461538461539
+Bottles,120,2025-04-21,Scaled seasonal,False,119,123.04761904761905
+Bottles,121,2025-04-28,Scaled seasonal,False,115,87.89115646258503
+Bottles,122,2025-05-05,Scaled seasonal,False,100,88.98979591836735
+Bottles,123,2025-05-12,Scaled seasonal,False,123,95.58163265306122
+Bottles,124,2025-05-19,Scaled seasonal,False,98,137.32993197278913
+Bottles,125,2025-05-26,Scaled seasonal,False,122,103.27210884353741
+Bottles,126,2025-06-02,Scaled seasonal,False,121,126.34353741496598
+Bottles,127,2025-06-09,Scaled seasonal,False,128,116.45578231292517
+Bottles,128,2025-06-16,Scaled seasonal,False,99,135.1326530612245
+Bottles,129,2025-06-23,Scaled seasonal,False,106,132.93537414965985
+Bottles,130,2025-06-30,Scaled seasonal,False,123,137.32993197278913
+Bottles,131,2025-07-07,Scaled seasonal,False,112,105.46938775510205
+Packing cubes,120,2025-04-21,Seasonal naive,False,106,104.0
+Packing cubes,121,2025-04-28,Seasonal naive,False,113,106.0
+Packing cubes,122,2025-05-05,Seasonal naive,False,137,119.0
+Packing cubes,123,2025-05-12,Seasonal naive,False,108,103.0
+Packing cubes,124,2025-05-19,Seasonal naive,False,95,94.0
+Packing cubes,125,2025-05-26,Seasonal naive,False,122,101.0
+Packing cubes,126,2025-06-02,Seasonal naive,False,151,117.0
+Packing cubes,127,2025-06-09,Seasonal naive,False,135,102.0
+Packing cubes,128,2025-06-16,Seasonal naive,False,112,129.0
+Packing cubes,129,2025-06-23,Seasonal naive,False,132,160.0
+Packing cubes,130,2025-06-30,Seasonal naive,False,137,114.0
+Packing cubes,131,2025-07-07,Seasonal naive,False,111,99.0
+Packing cubes,120,2025-04-21,Recent mean,True,106,109.61538461538461
+Packing cubes,121,2025-04-28,Recent mean,True,113,109.61538461538461
+Packing cubes,122,2025-05-05,Recent mean,True,137,109.61538461538461
+Packing cubes,123,2025-05-12,Recent mean,True,108,109.61538461538461
+Packing cubes,124,2025-05-19,Recent mean,True,95,109.61538461538461
+Packing cubes,125,2025-05-26,Recent mean,True,122,109.61538461538461
+Packing cubes,126,2025-06-02,Recent mean,True,151,109.61538461538461
+Packing cubes,127,2025-06-09,Recent mean,True,135,109.61538461538461
+Packing cubes,128,2025-06-16,Recent mean,True,112,109.61538461538461
+Packing cubes,129,2025-06-23,Recent mean,True,132,109.61538461538461
+Packing cubes,130,2025-06-30,Recent mean,True,137,109.61538461538461
+Packing cubes,131,2025-07-07,Recent mean,True,111,109.61538461538461
+Packing cubes,120,2025-04-21,Scaled seasonal,False,106,110.92814371257485
+Packing cubes,121,2025-04-28,Scaled seasonal,False,113,113.06137724550898
+Packing cubes,122,2025-05-05,Scaled seasonal,False,137,126.92739520958084
+Packing cubes,123,2025-05-12,Scaled seasonal,False,108,109.86152694610777
+Packing cubes,124,2025-05-19,Scaled seasonal,False,95,100.26197604790418
+Packing cubes,125,2025-05-26,Scaled seasonal,False,122,107.72829341317365
+Packing cubes,126,2025-06-02,Scaled seasonal,False,151,124.7941616766467
+Packing cubes,127,2025-06-09,Scaled seasonal,False,135,108.79491017964071
+Packing cubes,128,2025-06-16,Scaled seasonal,False,112,137.5935628742515
+Packing cubes,129,2025-06-23,Scaled seasonal,False,132,170.65868263473052
+Packing cubes,130,2025-06-30,Scaled seasonal,False,137,121.5943113772455
+Packing cubes,131,2025-07-07,Scaled seasonal,False,111,105.59505988023952
+Rain shells,120,2025-04-21,Seasonal naive,True,59,65.0
+Rain shells,121,2025-04-28,Seasonal naive,True,74,47.0
+Rain shells,122,2025-05-05,Seasonal naive,True,67,61.0
+Rain shells,123,2025-05-12,Seasonal naive,True,66,70.0
+Rain shells,124,2025-05-19,Seasonal naive,True,80,63.0
+Rain shells,125,2025-05-26,Seasonal naive,True,74,59.0
+Rain shells,126,2025-06-02,Seasonal naive,True,62,76.0
+Rain shells,127,2025-06-09,Seasonal naive,True,57,47.0
+Rain shells,128,2025-06-16,Seasonal naive,True,55,55.0
+Rain shells,129,2025-06-23,Seasonal naive,True,58,62.0
+Rain shells,130,2025-06-30,Seasonal naive,True,56,52.0
+Rain shells,131,2025-07-07,Seasonal naive,True,65,57.0
+Rain shells,120,2025-04-21,Recent mean,False,59,53.38461538461539
+Rain shells,121,2025-04-28,Recent mean,False,74,53.38461538461539
+Rain shells,122,2025-05-05,Recent mean,False,67,53.38461538461539
+Rain shells,123,2025-05-12,Recent mean,False,66,53.38461538461539
+Rain shells,124,2025-05-19,Recent mean,False,80,53.38461538461539
+Rain shells,125,2025-05-26,Recent mean,False,74,53.38461538461539
+Rain shells,126,2025-06-02,Recent mean,False,62,53.38461538461539
+Rain shells,127,2025-06-09,Recent mean,False,57,53.38461538461539
+Rain shells,128,2025-06-16,Recent mean,False,55,53.38461538461539
+Rain shells,129,2025-06-23,Recent mean,False,58,53.38461538461539
+Rain shells,130,2025-06-30,Recent mean,False,56,53.38461538461539
+Rain shells,131,2025-07-07,Recent mean,False,65,53.38461538461539
+Rain shells,120,2025-04-21,Scaled seasonal,False,59,62.56588072122053
+Rain shells,121,2025-04-28,Scaled seasonal,False,74,45.23994452149792
+Rain shells,122,2025-05-05,Scaled seasonal,False,67,58.71567267683773
+Rain shells,123,2025-05-12,Scaled seasonal,False,66,67.37864077669903
+Rain shells,124,2025-05-19,Scaled seasonal,False,80,60.640776699029125
+Rain shells,125,2025-05-26,Scaled seasonal,False,74,56.79056865464633
+Rain shells,126,2025-06-02,Scaled seasonal,False,62,73.15395284327323
+Rain shells,127,2025-06-09,Scaled seasonal,False,57,45.23994452149792
+Rain shells,128,2025-06-16,Scaled seasonal,False,55,52.940360610263525
+Rain shells,129,2025-06-23,Scaled seasonal,False,58,59.67822468793343
+Rain shells,130,2025-06-30,Scaled seasonal,False,56,50.052704576976424
+Rain shells,131,2025-07-07,Scaled seasonal,False,65,54.86546463245492
+Trail packs,120,2025-04-21,Seasonal naive,False,61,46.0
+Trail packs,121,2025-04-28,Seasonal naive,False,64,66.0
+Trail packs,122,2025-05-05,Seasonal naive,False,61,62.0
+Trail packs,123,2025-05-12,Seasonal naive,False,50,53.0
+Trail packs,124,2025-05-19,Seasonal naive,False,62,45.0
+Trail packs,125,2025-05-26,Seasonal naive,False,53,71.0
+Trail packs,126,2025-06-02,Seasonal naive,False,54,47.0
+Trail packs,127,2025-06-09,Seasonal naive,False,54,48.0
+Trail packs,128,2025-06-16,Seasonal naive,False,53,48.0
+Trail packs,129,2025-06-23,Seasonal naive,False,52,46.0
+Trail packs,130,2025-06-30,Seasonal naive,False,50,47.0
+Trail packs,131,2025-07-07,Seasonal naive,False,51,38.0
+Trail packs,120,2025-04-21,Recent mean,False,61,57.53846153846154
+Trail packs,121,2025-04-28,Recent mean,False,64,57.53846153846154
+Trail packs,122,2025-05-05,Recent mean,False,61,57.53846153846154
+Trail packs,123,2025-05-12,Recent mean,False,50,57.53846153846154
+Trail packs,124,2025-05-19,Recent mean,False,62,57.53846153846154
+Trail packs,125,2025-05-26,Recent mean,False,53,57.53846153846154
+Trail packs,126,2025-06-02,Recent mean,False,54,57.53846153846154
+Trail packs,127,2025-06-09,Recent mean,False,54,57.53846153846154
+Trail packs,128,2025-06-16,Recent mean,False,53,57.53846153846154
+Trail packs,129,2025-06-23,Recent mean,False,52,57.53846153846154
+Trail packs,130,2025-06-30,Recent mean,False,50,57.53846153846154
+Trail packs,131,2025-07-07,Recent mean,False,51,57.53846153846154
+Trail packs,120,2025-04-21,Scaled seasonal,True,61,50.37774524158125
+Trail packs,121,2025-04-28,Scaled seasonal,True,64,72.28111273792094
+Trail packs,122,2025-05-05,Scaled seasonal,True,61,67.900439238653
+Trail packs,123,2025-05-12,Scaled seasonal,True,50,58.043923865300144
+Trail packs,124,2025-05-19,Scaled seasonal,True,62,49.28257686676427
+Trail packs,125,2025-05-26,Scaled seasonal,True,53,77.75695461200586
+Trail packs,126,2025-06-02,Scaled seasonal,True,54,51.47291361639824
+Trail packs,127,2025-06-09,Scaled seasonal,True,54,52.56808199121522
+Trail packs,128,2025-06-16,Scaled seasonal,True,53,52.56808199121522
+Trail packs,129,2025-06-23,Scaled seasonal,True,52,50.37774524158125
+Trail packs,130,2025-06-30,Scaled seasonal,True,50,51.47291361639824
+Trail packs,131,2025-07-07,Scaled seasonal,True,51,41.61639824304538
+Training tees,120,2025-04-21,Seasonal naive,True,66,77.0
+Training tees,121,2025-04-28,Seasonal naive,True,85,72.0
+Training tees,122,2025-05-05,Seasonal naive,True,80,70.0
+Training tees,123,2025-05-12,Seasonal naive,True,102,87.0
+Training tees,124,2025-05-19,Seasonal naive,True,93,98.0
+Training tees,125,2025-05-26,Seasonal naive,True,69,111.0
+Training tees,126,2025-06-02,Seasonal naive,True,97,67.0
+Training tees,127,2025-06-09,Seasonal naive,True,80,109.0
+Training tees,128,2025-06-16,Seasonal naive,True,110,90.0
+Training tees,129,2025-06-23,Seasonal naive,True,98,98.0
+Training tees,130,2025-06-30,Seasonal naive,True,95,100.0
+Training tees,131,2025-07-07,Seasonal naive,True,109,98.0
+Training tees,120,2025-04-21,Recent mean,False,66,62.15384615384615
+Training tees,121,2025-04-28,Recent mean,False,85,62.15384615384615
+Training tees,122,2025-05-05,Recent mean,False,80,62.15384615384615
+Training tees,123,2025-05-12,Recent mean,False,102,62.15384615384615
+Training tees,124,2025-05-19,Recent mean,False,93,62.15384615384615
+Training tees,125,2025-05-26,Recent mean,False,69,62.15384615384615
+Training tees,126,2025-06-02,Recent mean,False,97,62.15384615384615
+Training tees,127,2025-06-09,Recent mean,False,80,62.15384615384615
+Training tees,128,2025-06-16,Recent mean,False,110,62.15384615384615
+Training tees,129,2025-06-23,Recent mean,False,98,62.15384615384615
+Training tees,130,2025-06-30,Recent mean,False,95,62.15384615384615
+Training tees,131,2025-07-07,Recent mean,False,109,62.15384615384615
+Training tees,120,2025-04-21,Scaled seasonal,False,66,76.43243243243244
+Training tees,121,2025-04-28,Scaled seasonal,False,85,71.46928746928747
+Training tees,122,2025-05-05,Scaled seasonal,False,80,69.48402948402948
+Training tees,123,2025-05-12,Scaled seasonal,False,102,86.35872235872236
+Training tees,124,2025-05-19,Scaled seasonal,False,93,97.27764127764128
+Training tees,125,2025-05-26,Scaled seasonal,False,69,110.18181818181819
+Training tees,126,2025-06-02,Scaled seasonal,False,97,66.50614250614251
+Training tees,127,2025-06-09,Scaled seasonal,False,80,108.1965601965602
+Training tees,128,2025-06-16,Scaled seasonal,False,110,89.33660933660934
+Training tees,129,2025-06-23,Scaled seasonal,False,98,97.27764127764128
+Training tees,130,2025-06-30,Scaled seasonal,False,95,99.26289926289927
+Training tees,131,2025-07-07,Scaled seasonal,False,109,97.27764127764128
+Travel duffels,120,2025-04-21,Seasonal naive,True,71,73.0
+Travel duffels,121,2025-04-28,Seasonal naive,True,94,68.0
+Travel duffels,122,2025-05-05,Seasonal naive,True,86,84.0
+Travel duffels,123,2025-05-12,Seasonal naive,True,76,84.0
+Travel duffels,124,2025-05-19,Seasonal naive,True,67,74.0
+Travel duffels,125,2025-05-26,Seasonal naive,True,77,87.0
+Travel duffels,126,2025-06-02,Seasonal naive,True,85,69.0
+Travel duffels,127,2025-06-09,Seasonal naive,True,68,74.0
+Travel duffels,128,2025-06-16,Seasonal naive,True,60,78.0
+Travel duffels,129,2025-06-23,Seasonal naive,True,75,87.0
+Travel duffels,130,2025-06-30,Seasonal naive,True,80,65.0
+Travel duffels,131,2025-07-07,Seasonal naive,True,61,76.0
+Travel duffels,120,2025-04-21,Recent mean,False,71,64.61538461538461
+Travel duffels,121,2025-04-28,Recent mean,False,94,64.61538461538461
+Travel duffels,122,2025-05-05,Recent mean,False,86,64.61538461538461
+Travel duffels,123,2025-05-12,Recent mean,False,76,64.61538461538461
+Travel duffels,124,2025-05-19,Recent mean,False,67,64.61538461538461
+Travel duffels,125,2025-05-26,Recent mean,False,77,64.61538461538461
+Travel duffels,126,2025-06-02,Recent mean,False,85,64.61538461538461
+Travel duffels,127,2025-06-09,Recent mean,False,68,64.61538461538461
+Travel duffels,128,2025-06-16,Recent mean,False,60,64.61538461538461
+Travel duffels,129,2025-06-23,Recent mean,False,75,64.61538461538461
+Travel duffels,130,2025-06-30,Recent mean,False,80,64.61538461538461
+Travel duffels,131,2025-07-07,Recent mean,False,61,64.61538461538461
+Travel duffels,120,2025-04-21,Scaled seasonal,False,71,78.11464968152866
+Travel duffels,121,2025-04-28,Scaled seasonal,False,94,72.76433121019109
+Travel duffels,122,2025-05-05,Scaled seasonal,False,86,89.88535031847134
+Travel duffels,123,2025-05-12,Scaled seasonal,False,76,89.88535031847134
+Travel duffels,124,2025-05-19,Scaled seasonal,False,67,79.18471337579618
+Travel duffels,125,2025-05-26,Scaled seasonal,False,77,93.09554140127388
+Travel duffels,126,2025-06-02,Scaled seasonal,False,85,73.83439490445859
+Travel duffels,127,2025-06-09,Scaled seasonal,False,68,79.18471337579618
+Travel duffels,128,2025-06-16,Scaled seasonal,False,60,83.46496815286623
+Travel duffels,129,2025-06-23,Scaled seasonal,False,75,93.09554140127388
+Travel duffels,130,2025-06-30,Scaled seasonal,False,80,69.55414012738854
+Travel duffels,131,2025-07-07,Scaled seasonal,False,61,81.32484076433121
+Utility totes,120,2025-04-21,Seasonal naive,False,132,102.0
+Utility totes,121,2025-04-28,Seasonal naive,False,100,114.0
+Utility totes,122,2025-05-05,Seasonal naive,False,71,103.0
+Utility totes,123,2025-05-12,Seasonal naive,False,96,87.0
+Utility totes,124,2025-05-19,Seasonal naive,False,108,111.0
+Utility totes,125,2025-05-26,Seasonal naive,False,95,106.0
+Utility totes,126,2025-06-02,Seasonal naive,False,109,0.0
+Utility totes,127,2025-06-09,Seasonal naive,False,102,90.0
+Utility totes,128,2025-06-16,Seasonal naive,False,0,99.0
+Utility totes,129,2025-06-23,Seasonal naive,False,156,105.0
+Utility totes,130,2025-06-30,Seasonal naive,False,121,118.0
+Utility totes,131,2025-07-07,Seasonal naive,False,105,93.0
+Utility totes,120,2025-04-21,Recent mean,True,132,67.76923076923077
+Utility totes,121,2025-04-28,Recent mean,True,100,67.76923076923077
+Utility totes,122,2025-05-05,Recent mean,True,71,67.76923076923077
+Utility totes,123,2025-05-12,Recent mean,True,96,67.76923076923077
+Utility totes,124,2025-05-19,Recent mean,True,108,67.76923076923077
+Utility totes,125,2025-05-26,Recent mean,True,95,67.76923076923077
+Utility totes,126,2025-06-02,Recent mean,True,109,67.76923076923077
+Utility totes,127,2025-06-09,Recent mean,True,102,67.76923076923077
+Utility totes,128,2025-06-16,Recent mean,True,0,67.76923076923077
+Utility totes,129,2025-06-23,Recent mean,True,156,67.76923076923077
+Utility totes,130,2025-06-30,Recent mean,True,121,67.76923076923077
+Utility totes,131,2025-07-07,Recent mean,True,105,67.76923076923077
+Utility totes,120,2025-04-21,Scaled seasonal,False,132,75.7689713322091
+Utility totes,121,2025-04-28,Scaled seasonal,False,100,84.68296795952782
+Utility totes,122,2025-05-05,Scaled seasonal,False,71,76.51180438448566
+Utility totes,123,2025-05-12,Scaled seasonal,False,96,64.62647554806071
+Utility totes,124,2025-05-19,Scaled seasonal,False,108,82.45446880269814
+Utility totes,125,2025-05-26,Scaled seasonal,False,95,78.74030354131534
+Utility totes,126,2025-06-02,Scaled seasonal,False,109,0.0
+Utility totes,127,2025-06-09,Scaled seasonal,False,102,66.85497470489038
+Utility totes,128,2025-06-16,Scaled seasonal,False,0,73.54047217537942
+Utility totes,129,2025-06-23,Scaled seasonal,False,156,77.99747048903878
+Utility totes,130,2025-06-30,Scaled seasonal,False,121,87.65430016863407
+Utility totes,131,2025-07-07,Scaled seasonal,False,105,69.08347386172007
+Wool socks,120,2025-04-21,Seasonal naive,False,75,104.0
+Wool socks,121,2025-04-28,Seasonal naive,False,93,102.0
+Wool socks,122,2025-05-05,Seasonal naive,False,81,113.0
+Wool socks,123,2025-05-12,Seasonal naive,False,109,91.0
+Wool socks,124,2025-05-19,Seasonal naive,False,81,86.0
+Wool socks,125,2025-05-26,Seasonal naive,False,88,108.0
+Wool socks,126,2025-06-02,Seasonal naive,False,106,83.0
+Wool socks,127,2025-06-09,Seasonal naive,False,109,104.0
+Wool socks,128,2025-06-16,Seasonal naive,False,82,104.0
+Wool socks,129,2025-06-23,Seasonal naive,False,97,114.0
+Wool socks,130,2025-06-30,Seasonal naive,False,109,102.0
+Wool socks,131,2025-07-07,Seasonal naive,False,125,123.0
+Wool socks,120,2025-04-21,Recent mean,True,75,97.07692307692308
+Wool socks,121,2025-04-28,Recent mean,True,93,97.07692307692308
+Wool socks,122,2025-05-05,Recent mean,True,81,97.07692307692308
+Wool socks,123,2025-05-12,Recent mean,True,109,97.07692307692308
+Wool socks,124,2025-05-19,Recent mean,True,81,97.07692307692308
+Wool socks,125,2025-05-26,Recent mean,True,88,97.07692307692308
+Wool socks,126,2025-06-02,Recent mean,True,106,97.07692307692308
+Wool socks,127,2025-06-09,Recent mean,True,109,97.07692307692308
+Wool socks,128,2025-06-16,Recent mean,True,82,97.07692307692308
+Wool socks,129,2025-06-23,Recent mean,True,97,97.07692307692308
+Wool socks,130,2025-06-30,Recent mean,True,109,97.07692307692308
+Wool socks,131,2025-07-07,Recent mean,True,125,97.07692307692308
+Wool socks,120,2025-04-21,Scaled seasonal,False,75,106.016155088853
+Wool socks,121,2025-04-28,Scaled seasonal,False,93,103.97738287560583
+Wool socks,122,2025-05-05,Scaled seasonal,False,81,115.19063004846528
+Wool socks,123,2025-05-12,Scaled seasonal,False,109,92.76413570274637
+Wool socks,124,2025-05-19,Scaled seasonal,False,81,87.66720516962845
+Wool socks,125,2025-05-26,Scaled seasonal,False,88,110.09369951534734
+Wool socks,126,2025-06-02,Scaled seasonal,False,106,84.60904684975768
+Wool socks,127,2025-06-09,Scaled seasonal,False,109,106.016155088853
+Wool socks,128,2025-06-16,Scaled seasonal,False,82,106.016155088853
+Wool socks,129,2025-06-23,Scaled seasonal,False,97,116.21001615508887
+Wool socks,130,2025-06-30,Scaled seasonal,False,109,103.97738287560583
+Wool socks,131,2025-07-07,Scaled seasonal,False,125,125.38449111470115
