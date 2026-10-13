@@ -12,8 +12,37 @@
     <title>Zeroed In | Human Performance Systems</title>
     <script type="module" crossorigin src="/zeroed-in-site/assets/index-dk1e4DyC.js"></script>
     <link rel="stylesheet" crossorigin href="/zeroed-in-site/assets/index-CNRFxX-q.css">
+    <style>
+      .performance-lab-launch {
+        position: fixed;
+        right: 20px;
+        bottom: 20px;
+        z-index: 50;
+        display: grid;
+        gap: 3px;
+        width: min(310px, calc(100vw - 32px));
+        padding: 15px 18px;
+        color: #edf4df;
+        background: rgba(14, 21, 16, .96);
+        border: 1px solid rgba(185, 207, 135, .38);
+        border-radius: 12px;
+        box-shadow: 0 14px 40px rgba(0, 0, 0, .38);
+        text-decoration: none;
+        backdrop-filter: blur(14px);
+      }
+      .performance-lab-launch span { color: #b9cf87; font: 600 10px/1.4 system-ui, sans-serif; letter-spacing: .14em; text-transform: uppercase; }
+      .performance-lab-launch strong { font: 650 15px/1.4 system-ui, sans-serif; }
+      .performance-lab-launch small { color: #aab5a4; font: 400 11px/1.45 system-ui, sans-serif; }
+      .performance-lab-launch:focus-visible { outline: 2px solid #d7eba6; outline-offset: 3px; }
+      @media (max-width: 620px) { .performance-lab-launch { right: 16px; bottom: 16px; } }
+    </style>
   </head>
   <body>
     <div id="root"></div>
+    <a class="performance-lab-launch" href="/zeroed-in-site/projects/performance-lab/index.html" aria-label="View the ZeroedIn Performance Lab project">
+      <span>New portfolio build</span>
+      <strong>ZeroedIn Performance Lab ↗</strong>
+      <small>Local-first performance intelligence for athletes and tactical populations.</small>
+    </a>
   </body>
 </html>
